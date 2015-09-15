@@ -28,7 +28,7 @@ namespace JSE
             }
         }
 
-        public static void log(string text)
+        public void log(string text)
         {
             Debug.WriteLine(text);
 

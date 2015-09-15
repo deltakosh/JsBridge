@@ -22,7 +22,7 @@
     <AppXManifest Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-15T18:00:11.635</Modified>
+      <Modified>2015-09-15T18:27:58.415</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -76,11 +76,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\entrypoint\JSBridge.exe">
       <PackagePath>entrypoint\JSBridge.exe</PackagePath>
-      <Modified>2015-09-15T18:00:08.195</Modified>
+      <Modified>2015-09-15T18:27:56.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\JSBridge.exe">
       <PackagePath>JSBridge.exe</PackagePath>
-      <Modified>2015-09-15T18:00:11.631</Modified>
+      <Modified>2015-09-15T18:27:58.413</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\JSBridge.xr.xml">
       <PackagePath>JSBridge.xr.xml</PackagePath>
@@ -88,7 +88,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\JSE.winmd">
       <PackagePath>JSE.winmd</PackagePath>
-      <Modified>2015-09-15T17:59:54.188</Modified>
+      <Modified>2015-09-15T18:27:55.322</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>

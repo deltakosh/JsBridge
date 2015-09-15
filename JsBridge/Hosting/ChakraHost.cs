@@ -36,11 +36,17 @@ namespace ChakraHost
                 return "failed to setup callback for ES6 Promise";
 
             // Projections
-            if (Native.JsProjectWinRTNamespace("Windows") != JavaScriptErrorCode.NoError)
+            JavaScriptValue value;
+            var consoleObject = new JSE.console();
+            if (Native.JsInspectableToObject(consoleObject, out value) != JavaScriptErrorCode.NoError)
                 return "failed to project windows namespace.";
 
-            if (Native.JsProjectWinRTNamespace("JSE") != JavaScriptErrorCode.NoError)
-                return "failed to project JSE namespace.";
+
+            //if (Native.JsProjectWinRTNamespace("Windows") != JavaScriptErrorCode.NoError)
+            //    return "failed to project windows namespace.";
+
+            //if (Native.JsProjectWinRTNamespace("JSE") != JavaScriptErrorCode.NoError)
+            //    return "failed to project JSE namespace.";
 
             // Add references
             await AddScriptReferenceAsync("injection.js");
