@@ -1,0 +1,2 @@
+D:\Repos\JsBridge\JsBridge\JSBridge.csproj;x86
+D:\Repos\JsBridge\JSE\JSE.csproj;neutral

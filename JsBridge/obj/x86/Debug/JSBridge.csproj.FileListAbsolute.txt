@@ -1,0 +1,1770 @@
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\App.g.i.cs
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\App.g.cs
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\MainPage.g.i.cs
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\MainPage.g.cs
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\XamlTypeInfo.g.cs
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\App.xaml
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\MainPage.xaml
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\App.xbf
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\MainPage.xbf
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\XamlSaveStateFile.xml
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\ApplicationInsights.config
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\App.xbf
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\MainPage.xbf
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\JSBridge.xr.xml
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\JSBridge.exe
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\JSBridge.pdb
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\resources.pri
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\AppxManifest.xml
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\App7.exe
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\App7.pdb
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\App7.xr.xml
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\ApplicationInsights.config
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\AppxManifest.xml
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\Assets\StoreLogo.png
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\ClrCompression.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\entrypoint\App7.exe
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\entrypoint\JSBridge.exe
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\JSBridge.exe
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\JSBridge.pdb
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\JSBridge.xr.xml
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\JSE.pdb
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\JSE.winmd
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\Microsoft.CSharp.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\Microsoft.VisualBasic.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\Properties\Default.rd.xml
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\refs\cdc.js
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\resources.pri
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.AppContext.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Collections.Concurrent.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Collections.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Collections.Immutable.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Collections.NonGeneric.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Collections.Specialized.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.ComponentModel.Annotations.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.ComponentModel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Core.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Data.Common.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Diagnostics.Contracts.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Diagnostics.Debug.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Diagnostics.StackTrace.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Diagnostics.Tools.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Diagnostics.Tracing.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Dynamic.Runtime.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Globalization.Calendars.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Globalization.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Globalization.Extensions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.IO.Compression.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.IO.Compression.ZipFile.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.IO.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.IO.FileSystem.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.IO.FileSystem.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.IO.IsolatedStorage.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Linq.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Linq.Expressions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Linq.Parallel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Linq.Queryable.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Net.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Net.Http.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Net.Http.Rtc.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Net.NetworkInformation.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Net.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Net.Requests.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Net.Sockets.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Net.WebHeaderCollection.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Numerics.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Numerics.Vectors.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.ObjectModel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Private.DataContractSerialization.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Private.Networking.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Private.ServiceModel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Private.Uri.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Reflection.Context.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Reflection.DispatchProxy.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Reflection.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Reflection.Emit.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Reflection.Extensions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Reflection.Metadata.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Reflection.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Reflection.TypeExtensions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Resources.ResourceManager.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Runtime.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Runtime.Extensions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Runtime.Handles.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Runtime.InteropServices.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Runtime.Numerics.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Runtime.Serialization.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Runtime.Serialization.Json.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Runtime.Serialization.Xml.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Security.Claims.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Security.Principal.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.ServiceModel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.ServiceModel.Duplex.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.ServiceModel.Http.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.ServiceModel.NetTcp.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.ServiceModel.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.ServiceModel.Security.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.ServiceModel.Web.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Text.Encoding.CodePages.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Text.Encoding.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Text.Encoding.Extensions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Text.RegularExpressions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Threading.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Threading.Overlapped.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Threading.Tasks.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Threading.Tasks.Parallel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Threading.Timer.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Windows.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Xml.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Xml.Linq.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Xml.ReaderWriter.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Xml.Serialization.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Xml.XDocument.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Xml.XmlDocument.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\window.pdb
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\window.winmd
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\WinMetadata\Windows.winmd
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\JSBridge.build.appxrecipe
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Microsoft.CSharp.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Core.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Net.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Numerics.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Runtime.Serialization.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.ServiceModel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.ServiceModel.Web.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Windows.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Xml.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Xml.Linq.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Xml.Serialization.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Microsoft.VisualBasic.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.AppContext.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Collections.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Collections.Concurrent.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Collections.Immutable.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Collections.NonGeneric.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Collections.Specialized.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.ComponentModel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.ComponentModel.Annotations.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Data.Common.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Diagnostics.Contracts.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Diagnostics.Debug.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Diagnostics.Tools.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Diagnostics.Tracing.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Dynamic.Runtime.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Globalization.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Globalization.Calendars.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Globalization.Extensions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.IO.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.IO.Compression.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\ClrCompression.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.IO.FileSystem.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.IO.IsolatedStorage.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Linq.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Linq.Expressions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Linq.Parallel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Linq.Queryable.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Net.Http.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Net.Http.Rtc.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Net.NetworkInformation.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Net.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Net.Requests.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Net.Sockets.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Numerics.Vectors.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.ObjectModel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Private.DataContractSerialization.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Private.Networking.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Private.ServiceModel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Private.Uri.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Reflection.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Reflection.Context.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Reflection.Emit.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Reflection.Extensions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Reflection.Metadata.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Reflection.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Resources.ResourceManager.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Runtime.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Runtime.Extensions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Runtime.Handles.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Runtime.InteropServices.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Runtime.Numerics.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Security.Claims.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Security.Principal.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.ServiceModel.Duplex.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.ServiceModel.Http.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.ServiceModel.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.ServiceModel.Security.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Text.Encoding.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Text.RegularExpressions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Threading.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Threading.Overlapped.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Threading.Tasks.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Threading.Timer.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Xml.ReaderWriter.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Xml.XDocument.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Xml.XmlDocument.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\System.Xml.XmlSerializer.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\JSBridge.csprojResolveAssemblyReference.cache
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\JSBridge.exe
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\JSBridge.pdb
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ResourceHandlingTask.state
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Collections.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.IO.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Linq.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Threading.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\priconfig.xml
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\priconfig.xml.intermediate
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\layout.resfiles
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\layout.resfiles.intermediate
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\resources.resfiles
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\resources.resfiles.intermediate
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\pri.resfiles
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\pri.resfiles.intermediate
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\qualifiers.txt
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\qualifiers.txt.intermediate
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ProjectArchitectures.txt
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\Microsoft.ApplicationInsights.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\Microsoft.CSharp.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Core.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Net.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Numerics.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Runtime.Serialization.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.ServiceModel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.ServiceModel.Web.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Windows.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Xml.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Xml.Linq.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Xml.Serialization.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\Microsoft.VisualBasic.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\Microsoft.Win32.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.AppContext.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Collections.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Collections.Concurrent.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Collections.Immutable.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Collections.NonGeneric.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Collections.Specialized.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.ComponentModel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.ComponentModel.Annotations.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Data.Common.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Diagnostics.Contracts.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Diagnostics.Debug.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Diagnostics.StackTrace.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Diagnostics.Tools.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Diagnostics.Tracing.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Dynamic.Runtime.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Globalization.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Globalization.Calendars.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Globalization.Extensions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.IO.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.IO.Compression.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\ClrCompression.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.IO.Compression.ZipFile.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.IO.FileSystem.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.IO.FileSystem.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.IO.IsolatedStorage.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Linq.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Linq.Expressions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Linq.Parallel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Linq.Queryable.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Net.Http.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Net.Http.Rtc.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Net.NetworkInformation.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Net.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Net.Requests.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Net.Sockets.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Net.WebHeaderCollection.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Numerics.Vectors.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.ObjectModel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Private.DataContractSerialization.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Private.Networking.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Private.ServiceModel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Private.Uri.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Reflection.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Reflection.Context.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Reflection.DispatchProxy.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Reflection.Emit.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Reflection.Extensions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Reflection.Metadata.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Reflection.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Reflection.TypeExtensions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Resources.ResourceManager.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Runtime.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Runtime.Extensions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Runtime.Handles.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Runtime.InteropServices.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Runtime.Numerics.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Runtime.Serialization.Json.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Runtime.Serialization.Xml.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Runtime.WindowsRuntime.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Security.Claims.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Security.Principal.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.ServiceModel.Duplex.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.ServiceModel.Http.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.ServiceModel.NetTcp.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.ServiceModel.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.ServiceModel.Security.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Text.Encoding.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Text.Encoding.CodePages.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Text.Encoding.Extensions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Text.RegularExpressions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Threading.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Threading.Overlapped.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Threading.Tasks.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Threading.Tasks.Parallel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Threading.Timer.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Xml.ReaderWriter.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Xml.XDocument.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Xml.XmlDocument.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\System.Xml.XmlSerializer.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\ApplicationInsights.config
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\refs\cdc.js
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\Properties\Default.rd.xml
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\Assets\SplashScreen.scale-200.png
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\Assets\StoreLogo.png
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\WinMetadata\Windows.winmd
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\JSBridge.exe
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\JSBridge.pdb
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\JSBridge.xr.xml
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\resources.pri
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\App7.exe
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\App7.pdb
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\App7.xr.xml
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\ApplicationInsights.config
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\Assets\LockScreenLogo.scale-200.png
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\Assets\SplashScreen.scale-200.png
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\Assets\Square150x150Logo.scale-200.png
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\Assets\Square44x44Logo.scale-200.png
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\Assets\StoreLogo.png
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\Assets\Wide310x150Logo.scale-200.png
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\ClrCompression.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\entrypoint\App7.exe
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\entrypoint\JSBridge.exe
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\JSBridge.exe
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\JSBridge.pdb
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\JSBridge.xr.xml
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\JSE.pdb
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\JSE.winmd
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\Microsoft.ApplicationInsights.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\Microsoft.ApplicationInsights.PersistenceChannel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\Microsoft.CSharp.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\Microsoft.VisualBasic.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\Microsoft.Win32.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\Properties\Default.rd.xml
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\refs\cdc.js
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\resources.pri
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.AppContext.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Collections.Concurrent.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Collections.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Collections.Immutable.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Collections.NonGeneric.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Collections.Specialized.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.ComponentModel.Annotations.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.ComponentModel.DataAnnotations.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.ComponentModel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.ComponentModel.EventBasedAsync.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Core.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Data.Common.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Diagnostics.Contracts.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Diagnostics.Debug.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Diagnostics.StackTrace.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Diagnostics.Tools.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Diagnostics.Tracing.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Dynamic.Runtime.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Globalization.Calendars.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Globalization.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Globalization.Extensions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.IO.Compression.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.IO.Compression.ZipFile.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.IO.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.IO.FileSystem.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.IO.FileSystem.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.IO.IsolatedStorage.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.IO.UnmanagedMemoryStream.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Linq.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Linq.Expressions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Linq.Parallel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Linq.Queryable.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Net.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Net.Http.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Net.Http.Rtc.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Net.NetworkInformation.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Net.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Net.Requests.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Net.Sockets.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Net.WebHeaderCollection.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Numerics.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Numerics.Vectors.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Numerics.Vectors.WindowsRuntime.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.ObjectModel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Private.DataContractSerialization.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Private.Networking.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Private.ServiceModel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Private.Uri.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Reflection.Context.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Reflection.DispatchProxy.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Reflection.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Reflection.Emit.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Reflection.Emit.ILGeneration.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Reflection.Emit.Lightweight.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Reflection.Extensions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Reflection.Metadata.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Reflection.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Reflection.TypeExtensions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Resources.ResourceManager.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Runtime.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Runtime.Extensions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Runtime.Handles.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Runtime.InteropServices.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Runtime.Numerics.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Runtime.Serialization.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Runtime.Serialization.Json.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Runtime.Serialization.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Runtime.Serialization.Xml.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Runtime.WindowsRuntime.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Security.Claims.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Security.Principal.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.ServiceModel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.ServiceModel.Duplex.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.ServiceModel.Http.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.ServiceModel.NetTcp.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.ServiceModel.Primitives.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.ServiceModel.Security.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.ServiceModel.Web.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Text.Encoding.CodePages.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Text.Encoding.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Text.Encoding.Extensions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Text.RegularExpressions.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Threading.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Threading.Overlapped.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Threading.Tasks.Dataflow.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Threading.Tasks.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Threading.Tasks.Parallel.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Threading.Timer.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Windows.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Xml.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Xml.Linq.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Xml.ReaderWriter.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Xml.Serialization.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Xml.XDocument.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Xml.XmlDocument.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\System.Xml.XmlSerializer.dll
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\window.pdb
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\window.winmd
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\WinMetadata\Windows.winmd
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\refs\injection.js
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\JSE.winmd
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\JSE.pdb
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\JSE.pri
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\JSE.pdb
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\JSE.winmd
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\refs\injection.js
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\refs\injection.js
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\refs\cdc-azuremobileservices.js
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\refs\cdc-azuremobileservices.js
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\refs\cdc-azuremobileservices.js
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\bin\x86\Debug\Core\sampleCode\sample.js
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\Core\sampleCode\sample.js
+c:\users\davca\documents\visual studio 2015\Projects\App7\App7\obj\x86\Debug\ilc\in\sampleCode\sample.js
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\ApplicationInsights.config
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\App.xbf
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\MainPage.xbf
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\JSBridge.xr.xml
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\JSBridge.exe
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\JSBridge.pdb
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\resources.pri
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\AppxManifest.xml
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\App7.exe
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\App7.pdb
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\App7.xr.xml
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\ApplicationInsights.config
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\Assets\StoreLogo.png
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\ClrCompression.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\entrypoint\App7.exe
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\entrypoint\JSBridge.exe
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\JSBridge.exe
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\JSBridge.pdb
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\JSBridge.xr.xml
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\JSE.pdb
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\JSE.winmd
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\Microsoft.CSharp.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\Microsoft.VisualBasic.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\Properties\Default.rd.xml
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\refs\cdc-azuremobileservices.js
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\refs\cdc.js
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\refs\injection.js
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\resources.pri
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\sampleCode\sample.js
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.AppContext.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Collections.Concurrent.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Collections.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Collections.Immutable.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Collections.NonGeneric.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Collections.Specialized.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.ComponentModel.Annotations.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.ComponentModel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Core.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Data.Common.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Diagnostics.Contracts.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Diagnostics.Debug.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Diagnostics.StackTrace.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Diagnostics.Tools.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Diagnostics.Tracing.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Dynamic.Runtime.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Globalization.Calendars.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Globalization.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Globalization.Extensions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.IO.Compression.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.IO.Compression.ZipFile.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.IO.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.IO.FileSystem.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.IO.FileSystem.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.IO.IsolatedStorage.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Linq.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Linq.Expressions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Linq.Parallel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Linq.Queryable.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Net.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Net.Http.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Net.Http.Rtc.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Net.NetworkInformation.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Net.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Net.Requests.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Net.Sockets.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Net.WebHeaderCollection.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Numerics.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Numerics.Vectors.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.ObjectModel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Private.DataContractSerialization.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Private.Networking.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Private.ServiceModel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Private.Uri.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Reflection.Context.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Reflection.DispatchProxy.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Reflection.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Reflection.Emit.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Reflection.Extensions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Reflection.Metadata.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Reflection.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Reflection.TypeExtensions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Resources.ResourceManager.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Runtime.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Runtime.Extensions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Runtime.Handles.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Runtime.InteropServices.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Runtime.Numerics.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Runtime.Serialization.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Runtime.Serialization.Json.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Runtime.Serialization.Xml.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Security.Claims.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Security.Principal.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.ServiceModel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.ServiceModel.Duplex.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.ServiceModel.Http.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.ServiceModel.NetTcp.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.ServiceModel.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.ServiceModel.Security.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.ServiceModel.Web.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Text.Encoding.CodePages.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Text.Encoding.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Text.Encoding.Extensions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Text.RegularExpressions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Threading.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Threading.Overlapped.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Threading.Tasks.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Threading.Tasks.Parallel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Threading.Timer.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Windows.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Xml.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Xml.Linq.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Xml.ReaderWriter.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Xml.Serialization.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Xml.XDocument.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Xml.XmlDocument.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\window.pdb
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\window.winmd
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Core\WinMetadata\Windows.winmd
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\JSBridge.build.appxrecipe
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Core.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Net.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Numerics.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Windows.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Xml.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.AppContext.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Collections.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Data.Common.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Globalization.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.IO.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\ClrCompression.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Linq.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Net.Http.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Private.Networking.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Reflection.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Runtime.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Threading.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\JSE.winmd
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\JSE.pdb
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\bin\x86\Debug\JSE.pri
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\JSBridge.csprojResolveAssemblyReference.cache
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\App.g.i.cs
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\App.g.cs
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\MainPage.g.cs
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\App.xaml
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\MainPage.xaml
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\App.xbf
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\MainPage.xbf
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\JSBridge.exe
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\JSBridge.pdb
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\priconfig.xml
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\layout.resfiles
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\resources.resfiles
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\pri.resfiles
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\qualifiers.txt
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\JSE.pdb
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\Microsoft.ApplicationInsights.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\Microsoft.CSharp.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Core.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Net.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Numerics.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Runtime.Serialization.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.ServiceModel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.ServiceModel.Web.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Windows.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Xml.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Xml.Linq.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Xml.Serialization.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\Microsoft.VisualBasic.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\Microsoft.Win32.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.AppContext.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Collections.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Collections.Concurrent.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Collections.Immutable.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Collections.NonGeneric.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Collections.Specialized.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.ComponentModel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.ComponentModel.Annotations.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Data.Common.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Diagnostics.Contracts.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Diagnostics.Debug.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Diagnostics.StackTrace.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Diagnostics.Tools.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Diagnostics.Tracing.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Dynamic.Runtime.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Globalization.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Globalization.Calendars.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Globalization.Extensions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.IO.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.IO.Compression.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\ClrCompression.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.IO.Compression.ZipFile.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.IO.FileSystem.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.IO.FileSystem.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.IO.IsolatedStorage.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Linq.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Linq.Expressions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Linq.Parallel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Linq.Queryable.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Net.Http.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Net.Http.Rtc.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Net.NetworkInformation.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Net.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Net.Requests.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Net.Sockets.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Net.WebHeaderCollection.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Numerics.Vectors.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.ObjectModel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Private.DataContractSerialization.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Private.Networking.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Private.ServiceModel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Private.Uri.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Reflection.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Reflection.Context.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Reflection.DispatchProxy.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Reflection.Emit.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Reflection.Extensions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Reflection.Metadata.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Reflection.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Reflection.TypeExtensions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Resources.ResourceManager.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Runtime.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Runtime.Extensions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Runtime.Handles.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Runtime.InteropServices.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Runtime.Numerics.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Runtime.Serialization.Json.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Runtime.Serialization.Xml.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Runtime.WindowsRuntime.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Security.Claims.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Security.Principal.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.ServiceModel.Duplex.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.ServiceModel.Http.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.ServiceModel.NetTcp.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.ServiceModel.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.ServiceModel.Security.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Text.Encoding.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Text.Encoding.CodePages.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Text.Encoding.Extensions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Text.RegularExpressions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Threading.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Threading.Overlapped.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Threading.Tasks.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Threading.Tasks.Parallel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Threading.Timer.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Xml.ReaderWriter.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Xml.XDocument.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Xml.XmlDocument.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\System.Xml.XmlSerializer.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\JSE.winmd
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\ApplicationInsights.config
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\refs\cdc-azuremobileservices.js
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\refs\cdc.js
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\refs\injection.js
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\sampleCode\sample.js
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\Properties\Default.rd.xml
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\Assets\SplashScreen.scale-200.png
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\Assets\StoreLogo.png
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\JSBridge.xr.xml
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\WinMetadata\Windows.winmd
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\JSBridge.exe
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\JSBridge.pdb
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\Core\resources.pri
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\App7.exe
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\App7.pdb
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\App7.xr.xml
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\ApplicationInsights.config
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\Assets\LockScreenLogo.scale-200.png
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\Assets\SplashScreen.scale-200.png
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\Assets\Square150x150Logo.scale-200.png
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\Assets\Square44x44Logo.scale-200.png
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\Assets\StoreLogo.png
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\Assets\Wide310x150Logo.scale-200.png
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\ClrCompression.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\entrypoint\App7.exe
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\entrypoint\JSBridge.exe
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\JSBridge.exe
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\JSBridge.pdb
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\JSBridge.xr.xml
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\JSE.pdb
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\JSE.winmd
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\Microsoft.ApplicationInsights.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\Microsoft.CSharp.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\Microsoft.VisualBasic.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\Microsoft.Win32.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\Properties\Default.rd.xml
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\refs\cdc-azuremobileservices.js
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\refs\cdc.js
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\refs\injection.js
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\resources.pri
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\sampleCode\sample.js
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.AppContext.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Collections.Concurrent.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Collections.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Collections.Immutable.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Collections.NonGeneric.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Collections.Specialized.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.ComponentModel.Annotations.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.ComponentModel.DataAnnotations.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.ComponentModel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.ComponentModel.EventBasedAsync.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Core.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Data.Common.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Diagnostics.Contracts.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Diagnostics.Debug.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Diagnostics.StackTrace.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Diagnostics.Tools.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Diagnostics.Tracing.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Dynamic.Runtime.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Globalization.Calendars.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Globalization.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Globalization.Extensions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.IO.Compression.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.IO.Compression.ZipFile.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.IO.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.IO.FileSystem.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.IO.FileSystem.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.IO.IsolatedStorage.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.IO.UnmanagedMemoryStream.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Linq.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Linq.Expressions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Linq.Parallel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Linq.Queryable.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Net.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Net.Http.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Net.Http.Rtc.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Net.NetworkInformation.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Net.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Net.Requests.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Net.Sockets.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Net.WebHeaderCollection.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Numerics.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Numerics.Vectors.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.ObjectModel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Private.DataContractSerialization.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Private.Networking.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Private.ServiceModel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Private.Uri.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Reflection.Context.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Reflection.DispatchProxy.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Reflection.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Reflection.Emit.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Reflection.Emit.ILGeneration.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Reflection.Emit.Lightweight.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Reflection.Extensions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Reflection.Metadata.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Reflection.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Reflection.TypeExtensions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Resources.ResourceManager.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Runtime.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Runtime.Extensions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Runtime.Handles.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Runtime.InteropServices.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Runtime.Numerics.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Runtime.Serialization.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Runtime.Serialization.Json.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Runtime.Serialization.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Runtime.Serialization.Xml.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Runtime.WindowsRuntime.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Security.Claims.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Security.Principal.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.ServiceModel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.ServiceModel.Duplex.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.ServiceModel.Http.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.ServiceModel.NetTcp.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.ServiceModel.Primitives.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.ServiceModel.Security.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.ServiceModel.Web.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Text.Encoding.CodePages.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Text.Encoding.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Text.Encoding.Extensions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Text.RegularExpressions.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Threading.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Threading.Overlapped.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Threading.Tasks.Dataflow.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Threading.Tasks.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Threading.Tasks.Parallel.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Threading.Timer.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Windows.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Xml.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Xml.Linq.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Xml.ReaderWriter.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Xml.Serialization.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Xml.XDocument.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Xml.XmlDocument.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\System.Xml.XmlSerializer.dll
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\window.pdb
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\window.winmd
+C:\Users\davca\Documents\Visual Studio 2015\Projects\JSBridge\App7\obj\x86\Debug\ilc\in\WinMetadata\Windows.winmd
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\ApplicationInsights.config
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\App.xbf
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\MainPage.xbf
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\JSBridge.xr.xml
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\JSBridge.exe
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\JSBridge.pdb
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\resources.pri
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\AppxManifest.xml
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\App7.exe
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\App7.pdb
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\App7.xr.xml
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\ApplicationInsights.config
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\AppxManifest.xml
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\Assets\StoreLogo.png
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\ClrCompression.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\entrypoint\App7.exe
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\entrypoint\JSBridge.exe
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\JSBridge.exe
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\JSBridge.pdb
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\JSBridge.xr.xml
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\JSE.pdb
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\JSE.winmd
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\Microsoft.CSharp.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\Microsoft.VisualBasic.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\Properties\Default.rd.xml
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\refs\cdc-azuremobileservices.js
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\refs\cdc.js
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\refs\injection.js
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\resources.pri
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\sampleCode\sample.js
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.AppContext.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Collections.Concurrent.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Collections.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Collections.Immutable.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Collections.NonGeneric.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Collections.Specialized.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.ComponentModel.Annotations.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.ComponentModel.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Core.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Data.Common.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Diagnostics.Contracts.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Diagnostics.Debug.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Diagnostics.StackTrace.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Diagnostics.Tools.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Diagnostics.Tracing.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Dynamic.Runtime.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Globalization.Calendars.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Globalization.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Globalization.Extensions.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.IO.Compression.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.IO.Compression.ZipFile.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.IO.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.IO.FileSystem.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.IO.FileSystem.Primitives.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.IO.IsolatedStorage.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Linq.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Linq.Expressions.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Linq.Parallel.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Linq.Queryable.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Net.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Net.Http.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Net.Http.Rtc.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Net.NetworkInformation.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Net.Primitives.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Net.Requests.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Net.Sockets.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Net.WebHeaderCollection.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Numerics.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Numerics.Vectors.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.ObjectModel.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Private.DataContractSerialization.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Private.Networking.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Private.ServiceModel.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Private.Uri.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Reflection.Context.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Reflection.DispatchProxy.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Reflection.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Reflection.Emit.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Reflection.Extensions.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Reflection.Metadata.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Reflection.Primitives.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Reflection.TypeExtensions.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Resources.ResourceManager.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Runtime.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Runtime.Extensions.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Runtime.Handles.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Runtime.InteropServices.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Runtime.Numerics.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Runtime.Serialization.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Runtime.Serialization.Json.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Runtime.Serialization.Xml.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Security.Claims.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Security.Principal.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.ServiceModel.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.ServiceModel.Duplex.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.ServiceModel.Http.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.ServiceModel.NetTcp.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.ServiceModel.Primitives.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.ServiceModel.Security.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.ServiceModel.Web.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Text.Encoding.CodePages.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Text.Encoding.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Text.Encoding.Extensions.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Text.RegularExpressions.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Threading.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Threading.Overlapped.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Threading.Tasks.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Threading.Tasks.Parallel.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Threading.Timer.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Windows.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Xml.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Xml.Linq.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Xml.ReaderWriter.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Xml.Serialization.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Xml.XDocument.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Xml.XmlDocument.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\window.pdb
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\window.winmd
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\WinMetadata\Windows.winmd
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\JSBridge.build.appxrecipe
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Microsoft.CSharp.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Core.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Net.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Numerics.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Runtime.Serialization.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.ServiceModel.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.ServiceModel.Web.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Windows.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Xml.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Xml.Linq.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Xml.Serialization.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Microsoft.VisualBasic.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.AppContext.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Collections.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Collections.Immutable.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Collections.Specialized.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.ComponentModel.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.ComponentModel.Annotations.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Data.Common.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Globalization.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.IO.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.IO.Compression.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\ClrCompression.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.IO.FileSystem.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Linq.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Linq.Expressions.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Linq.Parallel.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Linq.Queryable.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Net.Http.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Net.Http.Rtc.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Net.Primitives.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Net.Requests.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Net.Sockets.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.ObjectModel.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Private.DataContractSerialization.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Private.Networking.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Private.ServiceModel.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Private.Uri.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Reflection.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Reflection.Context.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Reflection.Emit.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Reflection.Metadata.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Runtime.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Runtime.Handles.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Security.Claims.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Security.Principal.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.ServiceModel.Duplex.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.ServiceModel.Http.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.ServiceModel.Primitives.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.ServiceModel.Security.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Text.Encoding.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Threading.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Threading.Tasks.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Threading.Timer.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Xml.XDocument.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\JSE.winmd
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\JSE.pdb
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\JSE.pri
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\JSBridge.csprojResolveAssemblyReference.cache
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\App.g.i.cs
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\App.g.cs
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\MainPage.g.i.cs
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\MainPage.g.cs
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\App.xaml
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\MainPage.xaml
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\App.xbf
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\MainPage.xbf
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\JSBridge.exe
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\JSBridge.pdb
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ResourceHandlingTask.state
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Collections.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.IO.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Linq.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Threading.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\priconfig.xml
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\priconfig.xml.intermediate
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\layout.resfiles
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\layout.resfiles.intermediate
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\resources.resfiles
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\resources.resfiles.intermediate
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\pri.resfiles
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\pri.resfiles.intermediate
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\qualifiers.txt
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ProjectArchitectures.txt
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\Microsoft.ApplicationInsights.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\Microsoft.CSharp.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Core.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Net.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Numerics.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Runtime.Serialization.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.ServiceModel.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.ServiceModel.Web.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Windows.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Xml.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Xml.Linq.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Xml.Serialization.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\Microsoft.VisualBasic.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\Microsoft.Win32.Primitives.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.AppContext.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Collections.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Collections.Concurrent.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Collections.Immutable.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Collections.NonGeneric.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Collections.Specialized.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.ComponentModel.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.ComponentModel.Annotations.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Data.Common.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Diagnostics.Contracts.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Diagnostics.Debug.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Diagnostics.StackTrace.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Diagnostics.Tools.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Diagnostics.Tracing.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Dynamic.Runtime.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Globalization.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Globalization.Calendars.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Globalization.Extensions.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.IO.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.IO.Compression.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\ClrCompression.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.IO.Compression.ZipFile.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.IO.FileSystem.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.IO.FileSystem.Primitives.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.IO.IsolatedStorage.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Linq.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Linq.Expressions.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Linq.Parallel.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Linq.Queryable.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Net.Http.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Net.Http.Rtc.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Net.NetworkInformation.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Net.Primitives.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Net.Requests.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Net.Sockets.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Net.WebHeaderCollection.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Numerics.Vectors.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.ObjectModel.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Private.DataContractSerialization.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Private.Networking.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Private.ServiceModel.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Private.Uri.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Reflection.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Reflection.Context.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Reflection.DispatchProxy.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Reflection.Emit.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Reflection.Extensions.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Reflection.Metadata.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Reflection.Primitives.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Reflection.TypeExtensions.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Resources.ResourceManager.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Runtime.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Runtime.Extensions.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Runtime.Handles.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Runtime.InteropServices.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Runtime.Numerics.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Runtime.Serialization.Json.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Runtime.Serialization.Xml.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Runtime.WindowsRuntime.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Security.Claims.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Security.Principal.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.ServiceModel.Duplex.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.ServiceModel.Http.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.ServiceModel.NetTcp.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.ServiceModel.Primitives.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.ServiceModel.Security.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Text.Encoding.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Text.Encoding.CodePages.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Text.Encoding.Extensions.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Text.RegularExpressions.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Threading.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Threading.Overlapped.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Threading.Tasks.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Threading.Tasks.Parallel.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Threading.Timer.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Xml.ReaderWriter.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Xml.XDocument.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Xml.XmlDocument.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\System.Xml.XmlSerializer.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\ApplicationInsights.config
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\refs\cdc-azuremobileservices.js
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\refs\cdc.js
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\refs\injection.js
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\sampleCode\sample.js
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\Properties\Default.rd.xml
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\Assets\SplashScreen.scale-200.png
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\Assets\StoreLogo.png
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\JSBridge.xr.xml
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\WinMetadata\Windows.winmd
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\JSBridge.exe
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\JSBridge.pdb
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\JSE.pdb
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\JSE.winmd
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\resources.pri
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\App7.exe
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\App7.pdb
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\App7.xr.xml
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\ApplicationInsights.config
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\Assets\LockScreenLogo.scale-200.png
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\Assets\SplashScreen.scale-200.png
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\Assets\Square150x150Logo.scale-200.png
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\Assets\Square44x44Logo.scale-200.png
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\Assets\StoreLogo.png
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\Assets\Wide310x150Logo.scale-200.png
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\ClrCompression.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\entrypoint\App7.exe
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\entrypoint\JSBridge.exe
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\JSBridge.exe
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\JSBridge.pdb
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\JSBridge.xr.xml
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\JSE.pdb
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\JSE.winmd
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\Microsoft.ApplicationInsights.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\Microsoft.ApplicationInsights.PersistenceChannel.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\Microsoft.CSharp.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\Microsoft.VisualBasic.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\Microsoft.Win32.Primitives.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\Properties\Default.rd.xml
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\refs\cdc-azuremobileservices.js
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\refs\cdc.js
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\refs\injection.js
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\resources.pri
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\sampleCode\sample.js
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.AppContext.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Collections.Concurrent.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Collections.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Collections.Immutable.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Collections.NonGeneric.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Collections.Specialized.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.ComponentModel.Annotations.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.ComponentModel.DataAnnotations.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.ComponentModel.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.ComponentModel.EventBasedAsync.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Core.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Data.Common.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Diagnostics.Contracts.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Diagnostics.Debug.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Diagnostics.StackTrace.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Diagnostics.Tools.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Diagnostics.Tracing.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Dynamic.Runtime.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Globalization.Calendars.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Globalization.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Globalization.Extensions.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.IO.Compression.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.IO.Compression.ZipFile.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.IO.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.IO.FileSystem.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.IO.FileSystem.Primitives.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.IO.IsolatedStorage.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.IO.UnmanagedMemoryStream.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Linq.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Linq.Expressions.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Linq.Parallel.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Linq.Queryable.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Net.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Net.Http.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Net.Http.Rtc.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Net.NetworkInformation.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Net.Primitives.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Net.Requests.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Net.Sockets.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Net.WebHeaderCollection.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Numerics.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Numerics.Vectors.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Numerics.Vectors.WindowsRuntime.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.ObjectModel.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Private.DataContractSerialization.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Private.Networking.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Private.ServiceModel.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Private.Uri.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Reflection.Context.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Reflection.DispatchProxy.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Reflection.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Reflection.Emit.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Reflection.Emit.ILGeneration.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Reflection.Emit.Lightweight.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Reflection.Extensions.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Reflection.Metadata.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Reflection.Primitives.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Reflection.TypeExtensions.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Resources.ResourceManager.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Runtime.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Runtime.Extensions.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Runtime.Handles.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Runtime.InteropServices.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Runtime.Numerics.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Runtime.Serialization.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Runtime.Serialization.Json.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Runtime.Serialization.Primitives.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Runtime.Serialization.Xml.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Runtime.WindowsRuntime.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Security.Claims.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Security.Principal.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.ServiceModel.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.ServiceModel.Duplex.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.ServiceModel.Http.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.ServiceModel.NetTcp.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.ServiceModel.Primitives.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.ServiceModel.Security.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.ServiceModel.Web.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Text.Encoding.CodePages.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Text.Encoding.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Text.Encoding.Extensions.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Text.RegularExpressions.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Threading.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Threading.Overlapped.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Threading.Tasks.Dataflow.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Threading.Tasks.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Threading.Tasks.Parallel.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Threading.Timer.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Windows.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Xml.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Xml.Linq.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Xml.ReaderWriter.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Xml.Serialization.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Xml.XDocument.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Xml.XmlDocument.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Xml.XmlSerializer.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\window.pdb
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\window.winmd
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\WinMetadata\Windows.winmd
