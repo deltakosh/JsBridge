@@ -35,8 +35,9 @@
     <Extension Category="windows.activatableClass.inProcessServer">
       <InProcessServer>
         <Path>CLRHost.dll</Path>
-        <ActivatableClass ActivatableClassId="JSE.window" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="JSE.XMLHttpRequest" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="JSE.console" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="JSE.window" ThreadingModel="both" />
       </InProcessServer>
     </Extension>
   </Extensions>

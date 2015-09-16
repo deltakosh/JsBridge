@@ -14,6 +14,7 @@ var CloudDataConnector;
         };
         // the callback is called with an array of objects { tableName: <tableName>, table: <array> }
         AzureDataService.prototype.get = function (updateCallback, lastSyncDates) {
+            console.log("AzureDataService get");
             this.dataAvailableCallback = updateCallback;
             var count = 0;
             var total = this.tableNames.length;
@@ -37,12 +38,14 @@ var CloudDataConnector;
                 lastDate = new Date(null);
                 firstCall = true;
             }
+            console.log("AzureDataService gettable: " + tableName);
             // Since the server sets the updateData and we are doiug a sort on date we assume we will never miss an item as long as we query from our latest update date.  
             Table.where(function (lastDateParam, firstCallParam) {
                 return (firstCallParam && !this.sync_deleted) || (!firstCallParam && this.sync_updated > lastDateParam);
             }, lastDate, firstCall).orderBy("sync_updated").take(100).read().done(function (table) {
                 //!!! Bug - need logic to send the query again until no more read.  Right now we only read 100 entries in our solution.
                 var result = { 'tableName': tableName, 'table': table };
+                console.log("table loaded");
                 callback(result);
             }, function (err) {
                 console.log(err);

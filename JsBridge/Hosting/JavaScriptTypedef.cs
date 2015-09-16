@@ -77,29 +77,6 @@
         /// </summary>
         private readonly IntPtr reference;
     }
-    
-    /// <summary>
-    ///     A JavaScript value.
-    /// </summary>
-    /// <remarks>
-    ///     A JavaScript value is one of the following types of values: Undefined, Null, Boolean, 
-    ///     String, Number, or Object.
-    /// </remarks>
-    public struct JavaScriptValue
-    {
-        /// <summary>
-        /// The reference.
-        /// </summary>
-        private readonly IntPtr reference;
-
-        public JavaScriptValue(IntPtr reference) {
-            this.reference = reference;
-        }
-
-        public IntPtr toIntPtr() {
-            return reference;
-        }
-    }
 
     /// <summary>
     ///     A cookie that identifies a script for debugging purposes.
@@ -176,56 +153,7 @@
             return context.ToInt32();
         }
     }
-
-    /// <summary>
-    ///     A property identifier.
-    /// </summary>
-    /// <remarks>
-    ///     Property identifiers are used to refer to properties of JavaScript objects instead of using
-    ///     strings.
-    /// </remarks>
-    public struct JavaScriptPropertyId : IEquatable<JavaScriptPropertyId>
-    {
-        /// <summary>
-        /// The id.
-        /// </summary>
-        private readonly IntPtr id;
-
-        /// <summary>
-        ///     Checks for equality between property IDs.
-        /// </summary>
-        /// <param name="other">The other property ID to compare.</param>
-        /// <returns>Whether the two property IDs are the same.</returns>
-        public bool Equals(JavaScriptPropertyId other)
-        {
-            return id == other.id;
-        }
-
-        /// <summary>
-        ///     Checks for equality between property IDs.
-        /// </summary>
-        /// <param name="obj">The other property ID to compare.</param>
-        /// <returns>Whether the two property IDs are the same.</returns>
-        public override bool Equals(object obj)
-        {
-            if (ReferenceEquals(null, obj))
-            {
-                return false;
-            }
-
-            return obj is JavaScriptPropertyId && Equals((JavaScriptPropertyId)obj);
-        }
-
-        /// <summary>
-        ///     The hash code.
-        /// </summary>
-        /// <returns>The hash code of the property ID.</returns>
-        public override int GetHashCode()
-        {
-            return id.ToInt32();
-        }
-    }
-
+    
     /// <summary>
     ///     The context passed into application callback, JsProjectionEnqueueCallback, from Jsrt and
     ///     then passed back to Jsrt in the provided callback, JsProjectionCallback, by the application

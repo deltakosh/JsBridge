@@ -94,6 +94,7 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="refs\azuremobileservices.js" />
     <Content Include="refs\cdc-azuremobileservices.js" />
     <Content Include="refs\cdc.js" />
     <Content Include="refs\injection.js" />
@@ -107,8 +108,16 @@
     </Compile>
     <Compile Include="Hosting\ChakraHost.cs" />
     <Compile Include="CoreTools.cs" />
+    <Compile Include="Hosting\Functions\SetTimeout.cs" />
+    <Compile Include="Hosting\Exceptions\JavaScriptEngineException.cs" />
     <Compile Include="Hosting\JavaScriptEnum.cs" />
+    <Compile Include="Hosting\JavaScriptException.cs" />
+    <Compile Include="Hosting\Exceptions\JavaScriptFatalException.cs" />
+    <Compile Include="Hosting\JavaScriptPropertyId.cs" />
+    <Compile Include="Hosting\Exceptions\JavaScriptScriptException.cs" />
     <Compile Include="Hosting\JavaScriptTypedef.cs" />
+    <Compile Include="Hosting\Exceptions\JavaScriptUsageException.cs" />
+    <Compile Include="Hosting\JavaScriptValue.cs" />
     <Compile Include="Hosting\Native.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>

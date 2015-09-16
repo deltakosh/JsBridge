@@ -87,6 +87,9 @@
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\refs\azuremobileservices.js">
+      <PackagePath>refs\azuremobileservices.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\refs\cdc-azuremobileservices.js">
       <PackagePath>refs\cdc-azuremobileservices.js</PackagePath>
     </AppxPackagedFile>

@@ -28,13 +28,13 @@ namespace JSBridge
 
         private async void MainPage_OnLoaded(object sender, RoutedEventArgs e)
         {
+            JSE.console.OnLog += Console_OnLog;
+
             string msg = await host.InitAsync();
             if (msg != "NoError")
             {
                 JsConsole.Text = msg;
             }
-
-            JSE.console.OnLog += Console_OnLog;
 
             var codeFile = await CoreTools.GetPackagedFileAsync("sampleCode", "sample.js");
             JsInput.Text = await FileIO.ReadTextAsync(codeFile);

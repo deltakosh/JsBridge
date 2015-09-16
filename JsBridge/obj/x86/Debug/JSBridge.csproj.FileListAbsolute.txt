@@ -1635,9 +1635,6 @@ D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\JSBridge.pdb
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\JSE.pdb
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\JSE.winmd
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\resources.pri
-D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\App7.exe
-D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\App7.pdb
-D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\App7.xr.xml
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\ApplicationInsights.config
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\Assets\LockScreenLogo.scale-200.png
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\Assets\SplashScreen.scale-200.png
@@ -1647,8 +1644,6 @@ D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\Assets\Square44x44Logo.targetsiz
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\Assets\StoreLogo.png
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\Assets\Wide310x150Logo.scale-200.png
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\ClrCompression.dll
-D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\entrypoint\App7.exe
-D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\entrypoint\JSBridge.exe
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\JSBridge.exe
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\JSBridge.pdb
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\JSBridge.xr.xml
@@ -1765,6 +1760,14 @@ D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Xml.Serialization.dll
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Xml.XDocument.dll
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Xml.XmlDocument.dll
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Xml.XmlSerializer.dll
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\WinMetadata\Windows.winmd
+D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\refs\azuremobileservices.js
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\refs\azuremobileservices.js
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\refs\azuremobileservices.js
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\App7.exe
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\App7.pdb
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\App7.xr.xml
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\entrypoint\App7.exe
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\entrypoint\JSBridge.exe
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\window.pdb
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\window.winmd
-D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\WinMetadata\Windows.winmd

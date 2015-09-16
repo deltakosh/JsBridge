@@ -132,6 +132,7 @@ var CloudDataConnector;
             }
             if (!indexedDB) {
                 indexedDB = new CloudDataConnector.Internals.InMemoryDatabase();
+                console.log("using IDB");
             }
             var request = indexedDB.open("syncbase", version);
             this._objectStorage = objectStorage;
@@ -151,9 +152,11 @@ var CloudDataConnector;
                 _this._db = request.result;
                 // If online, check for pending orders
                 if (_this.CDCConnectivityService.isOnline()) {
+                    console.log("processing pending entities");
                     _this.processPendingEntities(callback);
                 }
                 else {
+                    console.log("calling sync");
                     _this.sync(callback);
                 }
                 // Offline support
@@ -168,6 +171,7 @@ var CloudDataConnector;
             };
             // Initialization of the DB. Creating stores
             request.onupgradeneeded = function (event) {
+                console.log("DB upgrade required");
                 _this._db = event.target.result;
                 for (var i = 0; i < _this._dataServices.length; i++) {
                     var CDCService = _this._dataServices[i];
@@ -229,6 +233,7 @@ var CloudDataConnector;
         // onsuccess needs to be called with an object where the keys are the tablename and the values are the "tables"
         DataService.prototype.syncDataService = function (CDCService, onsuccess) {
             var _this = this;
+            console.log("syncDataService");
             if (this.CDCConnectivityService.isOnline()) {
                 // Get the updated rows since last sync date
                 CDCService.get(function (tables) {
@@ -624,6 +629,7 @@ var CloudDataConnector;
                 this.onupgradeneeded = null;
                 setTimeout(function () {
                     if (_this.onupgradeneeded) {
+                        console.log("calling onupgradeneeded");
                         _this.onupgradeneeded({ target: { result: _this.result } });
                     }
                     if (_this.onsuccess) {

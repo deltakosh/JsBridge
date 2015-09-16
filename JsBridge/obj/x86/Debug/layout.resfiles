@@ -9,6 +9,7 @@ Assets\StoreLogo.png
 Assets\Wide310x150Logo.scale-200.png
 JSBridge.xr.xml
 Properties\Default.rd.xml
+refs\azuremobileservices.js
 refs\cdc.js
 refs\cdc-azuremobileservices.js
 refs\injection.js

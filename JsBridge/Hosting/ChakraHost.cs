@@ -4,6 +4,7 @@ using System.Threading.Tasks;
 using Windows.Storage;
 using ChakraHost.Hosting;
 using JSBridge;
+using JSBridge.Hosting.Functions;
 
 namespace ChakraHost
 {
@@ -17,7 +18,8 @@ namespace ChakraHost
         {
             JavaScriptContext context;
 
-            if (Native.JsCreateRuntime(JavaScriptRuntimeAttributes.None, null, out runtime) != JavaScriptErrorCode.NoError)
+            if (Native.JsCreateRuntime(JavaScriptRuntimeAttributes.None, null, out runtime) !=
+                JavaScriptErrorCode.NoError)
                 return "failed to create runtime.";
 
             if (Native.JsCreateContext(runtime, out context) != JavaScriptErrorCode.NoError)
@@ -27,26 +29,32 @@ namespace ChakraHost
                 return "failed to set current context.";
 
             // ES6 Promise callback
-            JavaScriptPromiseContinuationCallback promiseContinuationCallback = delegate (JavaScriptValue task, IntPtr callbackState)
-            {
-                promiseCallback = task;
-            };
+            JavaScriptPromiseContinuationCallback promiseContinuationCallback =
+                delegate(JavaScriptValue task, IntPtr callbackState)
+                {
+                    promiseCallback = task;
+                };
 
-            if (Native.JsSetPromiseContinuationCallback(promiseContinuationCallback, IntPtr.Zero) != JavaScriptErrorCode.NoError)
+            if (Native.JsSetPromiseContinuationCallback(promiseContinuationCallback, IntPtr.Zero) !=
+                JavaScriptErrorCode.NoError)
                 return "failed to setup callback for ES6 Promise";
 
+            // Bind to global object
+            // setTimeout
+            DefineHostCallback("setTimeout", SetTimeout.SetTimeoutJavaScriptNativeFunction);
+
             // Projections
-            JavaScriptValue value;
-            var consoleObject = new JSE.console();
-            if (Native.JsInspectableToObject(consoleObject, out value) != JavaScriptErrorCode.NoError)
-                return "failed to project windows namespace.";
-
-
-            //if (Native.JsProjectWinRTNamespace("Windows") != JavaScriptErrorCode.NoError)
+            //JavaScriptValue value;
+            // var consoleObject = new JSE.console();
+            //if (Native.JsInspectableToObject(consoleObject, out value) != JavaScriptErrorCode.NoError)
             //    return "failed to project windows namespace.";
 
-            //if (Native.JsProjectWinRTNamespace("JSE") != JavaScriptErrorCode.NoError)
-            //    return "failed to project JSE namespace.";
+
+            if (Native.JsProjectWinRTNamespace("Windows") != JavaScriptErrorCode.NoError)
+                return "failed to project windows namespace.";
+
+            if (Native.JsProjectWinRTNamespace("JSE") != JavaScriptErrorCode.NoError)
+                return "failed to project JSE namespace.";
 
             // Add references
             await AddScriptReferenceAsync("injection.js");
@@ -56,7 +64,8 @@ namespace ChakraHost
                 return compilationMessage;
             }
 
-            compilationMessage = await AddScriptHttpReferenceAsync("https://ajax.aspnetcdn.com/ajax/mobileservices/MobileServices.Web-1.1.0.min.js");
+            //compilationMessage = await AddScriptHttpReferenceAsync("https://ajax.aspnetcdn.com/ajax/mobileservices/MobileServices.Web-1.1.0.js");
+            compilationMessage = await AddScriptReferenceAsync("azuremobileservices.js");
             if (compilationMessage != "undefined")
             {
                 return compilationMessage;
@@ -104,14 +113,14 @@ namespace ChakraHost
                     JavaScriptValue exception;
                     if (Native.JsGetAndClearException(out exception) != JavaScriptErrorCode.NoError)
                         return "failed to get and clear exception";
-                    
+
                     JavaScriptPropertyId messageName;
-                    if (Native.JsGetPropertyIdFromName("message", 
+                    if (Native.JsGetPropertyIdFromName("message",
                         out messageName) != JavaScriptErrorCode.NoError)
                         return "failed to get error message id";
 
                     JavaScriptValue messageValue;
-                    if (Native.JsGetProperty(exception, messageName, out messageValue) 
+                    if (Native.JsGetProperty(exception, messageName, out messageValue)
                         != JavaScriptErrorCode.NoError)
                         return "failed to get error message";
 
@@ -124,10 +133,10 @@ namespace ChakraHost
                 }
 
                 // Execute promise tasks stored in promiseCallback 
-                while (promiseCallback.toIntPtr() != IntPtr.Zero)
-                {                
+                while (promiseCallback.IsValid)
+                {
                     JavaScriptValue task = promiseCallback;
-                    promiseCallback = new JavaScriptValue(IntPtr.Zero);
+                    promiseCallback = JavaScriptValue.Invalid;
                     JavaScriptValue promiseResult;
                     Native.JsCallFunction(task, null, 0, out promiseResult);
                 }
@@ -137,7 +146,8 @@ namespace ChakraHost
                 UIntPtr stringLength;
                 if (Native.JsConvertValueToString(result, out stringResult) != JavaScriptErrorCode.NoError)
                     return "failed to convert value to string.";
-                if (Native.JsStringToPointer(stringResult, out returnValue, out stringLength) != JavaScriptErrorCode.NoError)
+                if (Native.JsStringToPointer(stringResult, out returnValue, out stringLength) !=
+                    JavaScriptErrorCode.NoError)
                     return "failed to convert return value.";
             }
             catch (Exception e)
@@ -146,6 +156,17 @@ namespace ChakraHost
             }
 
             return Marshal.PtrToStringUni(returnValue);
+        }
+
+        private static void DefineHostCallback(string callbackName, JavaScriptNativeFunction callback)
+        {
+            JavaScriptValue globalObject;
+            Native.JsGetGlobalObject(out globalObject);
+
+            JavaScriptPropertyId propertyId = JavaScriptPropertyId.FromString(callbackName);
+            JavaScriptValue function = JavaScriptValue.CreateFunction(callback, IntPtr.Zero);
+
+            globalObject.SetProperty(propertyId, function, true);
         }
     }
 }
