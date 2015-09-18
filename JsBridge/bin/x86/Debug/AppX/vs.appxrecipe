@@ -22,7 +22,7 @@
     <AppXManifest Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-18T23:45:16.717</Modified>
+      <Modified>2015-09-18T23:52:19.017</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -64,15 +64,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\entrypoint\JSBridge.exe">
       <PackagePath>entrypoint\JSBridge.exe</PackagePath>
-      <Modified>2015-09-18T23:45:11.656</Modified>
+      <Modified>2015-09-18T23:52:18.226</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\JSBridge.exe">
       <PackagePath>JSBridge.exe</PackagePath>
-      <Modified>2015-09-18T23:45:16.715</Modified>
+      <Modified>2015-09-18T23:52:19.016</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\JSBridge.xr.xml">
       <PackagePath>JSBridge.xr.xml</PackagePath>
-      <Modified>2015-09-18T22:46:13.282</Modified>
+      <Modified>2015-09-18T23:52:18.120</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\JSE.winmd">
       <PackagePath>JSE.winmd</PackagePath>
@@ -128,11 +128,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\refs\sample.js">
       <PackagePath>refs\sample.js</PackagePath>
-      <Modified>2015-09-18T23:44:33.026</Modified>
+      <Modified>2015-09-18T23:45:46.052</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-09-18T23:43:20.872</Modified>
+      <Modified>2015-09-18T23:52:18.768</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\sampleCode\sample.js">
       <PackagePath>sampleCode\sample.js</PackagePath>

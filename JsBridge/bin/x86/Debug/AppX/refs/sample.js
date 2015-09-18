@@ -21,8 +21,8 @@ CDCService.connect(function (results) {
         var models = [];
         for (var index = 0; index < results.table.length; index++) {
             var people = new Models.People();
-            people.firstname = results.table[0].firstname;
-            people.lastname = results.table[0].lastname;
+            people.firstname = results.table[index].firstname;
+            people.lastname = results.table[index].lastname;
             models.push(people);
         }
 

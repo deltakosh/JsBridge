@@ -13,19 +13,24 @@
             <RowDefinition/>
             <RowDefinition Height="200"/>
         </Grid.RowDefinitions>
-        <GridView x:Name="GridView">
+        <GridView x:Name="GridView" Margin="10">
             <GridView.ItemTemplate>
                 <DataTemplate>
-                    <Grid>
+                    <Grid Width="200" Height="50" Background="BlueViolet" Padding="10">
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition/>
                             <ColumnDefinition/>
                         </Grid.ColumnDefinitions>
-                        <TextBlock Text="{Binding firstname}"></TextBlock>
-                        <TextBlock Text="{Binding lastname}" Grid.Column="1"></TextBlock>
+                        <TextBlock Text="{Binding firstname}" VerticalAlignment="Center" Foreground="White"></TextBlock>
+                        <TextBlock Text="{Binding lastname}" Grid.Column="1" Margin="20,0,0,0" FontWeight="Bold" VerticalAlignment="Center"  Foreground="White"></TextBlock>
                     </Grid>
                 </DataTemplate>
             </GridView.ItemTemplate>
+            <GridView.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <ItemsWrapGrid></ItemsWrapGrid>
+                </ItemsPanelTemplate>
+            </GridView.ItemsPanel>
         </GridView>
         <ScrollViewer MinHeight="200" Grid.Row="1" x:Name="JsOutputScroll" BorderBrush="#FF858585" BorderThickness="2" VerticalScrollBarVisibility="Auto" Margin="0,10,0,0">
             <TextBlock x:Name="JsConsole" TextWrapping="Wrap"/>

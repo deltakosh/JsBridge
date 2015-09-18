@@ -23,6 +23,7 @@ namespace JSBridge
         private async void MainPage_OnLoaded(object sender, RoutedEventArgs e)
         {
             JSE.console.OnLog += Console_OnLog;
+            ViewModels.peopleManager.OnPeopleReceived += PeopleManager_OnPeopleReceived;
 
             string msg = await host.InitAsync();
             if (msg != "NoError")
@@ -39,6 +40,11 @@ namespace JSBridge
             {
                 Log(ex.Message);
             }
+        }
+
+        private void PeopleManager_OnPeopleReceived(object sender, Models.People[] people)
+        {
+            GridView.ItemsSource = people;
         }
 
         private void Console_OnLog(object sender, string text)
