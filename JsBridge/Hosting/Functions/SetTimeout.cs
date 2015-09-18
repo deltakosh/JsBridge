@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Windows.UI.Core;
 using Windows.UI.Xaml;
-using ChakraHost.Hosting;
+using JSBridge.Hosting;
 
 namespace JSBridge.Hosting.Functions
 {

@@ -11,12 +11,23 @@
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition/>
-            <RowDefinition Height="Auto"/>
-            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="200"/>
         </Grid.RowDefinitions>
-        <TextBox  Grid.Row="0" x:Name="JsInput" TextWrapping="Wrap" AcceptsReturn="True" BorderBrush="#FF858585" FontFamily="Consolas" InputScope="Text" FontSize="12"/>           
-        <Button Content="Execute" Click="Button_Click" Grid.Row="1" HorizontalAlignment="Center" Margin="0,10"/>
-        <ScrollViewer MinHeight="200" Grid.Row="2" x:Name="JsOutputScroll" BorderBrush="#FF858585" BorderThickness="2" VerticalScrollBarVisibility="Auto" Margin="0,10,0,0">
+        <GridView x:Name="GridView">
+            <GridView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="{Binding firstname}"></TextBlock>
+                        <TextBlock Text="{Binding lastname}" Grid.Column="1"></TextBlock>
+                    </Grid>
+                </DataTemplate>
+            </GridView.ItemTemplate>
+        </GridView>
+        <ScrollViewer MinHeight="200" Grid.Row="1" x:Name="JsOutputScroll" BorderBrush="#FF858585" BorderThickness="2" VerticalScrollBarVisibility="Auto" Margin="0,10,0,0">
             <TextBlock x:Name="JsConsole" TextWrapping="Wrap"/>
         </ScrollViewer>
     </Grid>

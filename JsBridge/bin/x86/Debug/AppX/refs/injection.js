@@ -1,3 +1,1 @@
-﻿window = JSE.window;
-XMLHttpRequest = JSE.XMLHttpRequest;
-
+﻿XMLHttpRequest = JSE.XMLHttpRequest;

@@ -2,11 +2,10 @@
 using System.Runtime.InteropServices;
 using System.Threading.Tasks;
 using Windows.Storage;
-using ChakraHost.Hosting;
-using JSBridge;
+using JSBridge.Hosting;
 using JSBridge.Hosting.Functions;
 
-namespace ChakraHost
+namespace JSBridge
 {
     public class ChakraHost
     {
@@ -44,38 +43,24 @@ namespace ChakraHost
             DefineHostCallback("setTimeout", SetTimeout.SetTimeoutJavaScriptNativeFunction);
 
             // Projections
-
-            if (Native.JsProjectWinRTNamespace("Windows") != JavaScriptErrorCode.NoError)
-                return "failed to project windows namespace.";
-
             if (Native.JsProjectWinRTNamespace("JSE") != JavaScriptErrorCode.NoError)
                 return "failed to project JSE namespace.";
 
-            JavaScriptValue value;
-            var consoleObject = new JSE.console();
-            if (Native.JsInspectableToObject(consoleObject, out value) != JavaScriptErrorCode.NoError)
-                return "failed to project windows namespace.";
+            if (Native.JsProjectWinRTNamespace("Models") != JavaScriptErrorCode.NoError)
+                return "failed to project Models namespace.";
+
+            if (Native.JsProjectWinRTNamespace("ViewModels") != JavaScriptErrorCode.NoError)
+                return "failed to project ViewModels namespace.";
+
+            ProjectObjectToGlobal(new JSE.console(), "console");
+            ProjectObjectToGlobal(new JSE.window(), "window");
+            ProjectObjectToGlobal(new ViewModels.peopleManager(), "peopleManager");
 
             // Add references
             await AddScriptReferenceAsync("injection.js");
-            var compilationMessage = await AddScriptReferenceAsync("cdc.js");
-            if (compilationMessage != "undefined")
-            {
-                return compilationMessage;
-            }
-
-            //compilationMessage = await AddScriptHttpReferenceAsync("https://ajax.aspnetcdn.com/ajax/mobileservices/MobileServices.Web-1.1.0.js");
-            compilationMessage = await AddScriptReferenceAsync("azuremobileservices.js");
-            if (compilationMessage != "undefined")
-            {
-                return compilationMessage;
-            }
-
-            compilationMessage = await AddScriptReferenceAsync("cdc-azuremobileservices.js");
-            if (compilationMessage != "undefined")
-            {
-                return compilationMessage;
-            }
+            await AddScriptReferenceAsync("cdc.js");
+            await AddScriptReferenceAsync("azuremobileservices.js");
+            await AddScriptReferenceAsync("cdc-azuremobileservices.js");
 
             // Debug
             if (Native.JsStartDebugging() != JavaScriptErrorCode.NoError)
@@ -167,6 +152,26 @@ namespace ChakraHost
             JavaScriptValue function = JavaScriptValue.CreateFunction(callback, IntPtr.Zero);
 
             globalObject.SetProperty(propertyId, function, true);
+        }
+
+        private static void DefineHostProperty(string callbackName, JavaScriptValue value)
+        {
+            JavaScriptValue globalObject;
+            Native.JsGetGlobalObject(out globalObject);
+
+            JavaScriptPropertyId propertyId = JavaScriptPropertyId.FromString(callbackName);
+            globalObject.SetProperty(propertyId, value, true);
+        }
+
+        private static string ProjectObjectToGlobal(object objectToProject, string name)
+        {
+            JavaScriptValue value;
+            if (Native.JsInspectableToObject(objectToProject, out value) != JavaScriptErrorCode.NoError)
+                return $"failed to project {name} object";
+
+            DefineHostProperty(name, value);
+
+            return "NoError";
         }
     }
 }

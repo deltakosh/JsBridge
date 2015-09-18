@@ -1,4 +1,4 @@
-﻿namespace ChakraHost.Hosting
+﻿namespace JSBridge.Hosting
 {
     using System;
 

@@ -7,17 +7,11 @@ namespace JSBridge
 {
     public sealed partial class MainPage
     {
-        readonly ChakraHost.ChakraHost host = new ChakraHost.ChakraHost();
+        readonly ChakraHost host = new ChakraHost();
 
         public MainPage()
         {
             InitializeComponent();
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            string result = host.RunScript(JsInput.Text);
-            Log(result);
         }
 
         private void Log(string text)
@@ -36,8 +30,15 @@ namespace JSBridge
                 JsConsole.Text = msg;
             }
 
-            var codeFile = await CoreTools.GetPackagedFileAsync("sampleCode", "sample.js");
-            JsInput.Text = await FileIO.ReadTextAsync(codeFile);
+            try
+            {
+                await host.AddScriptReferenceAsync("sample.js");
+
+            }
+            catch (Exception ex)
+            {
+                Log(ex.Message);
+            }
         }
 
         private void Console_OnLog(object sender, string text)
