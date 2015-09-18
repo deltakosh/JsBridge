@@ -20,6 +20,10 @@ namespace JSBridge.Hosting.Functions
             JavaScriptValue afterValue = arguments[2].ConvertToNumber();
             var after = Math.Max(afterValue.ToDouble(), 1);
 
+            uint refCount;
+            Native.JsAddRef(callbackValue, out refCount);
+            Native.JsAddRef(callee, out refCount);
+
             ExecuteAsync((int)after, callbackValue, callee);
 
             return JavaScriptValue.True;
@@ -29,6 +33,9 @@ namespace JSBridge.Hosting.Functions
         {
             await Task.Delay(delay);
             callbackValue.CallFunction(callee);
+            uint refCount;
+            Native.JsRelease(callbackValue, out refCount);
+            Native.JsRelease(callee, out refCount);
         }
     }
 }

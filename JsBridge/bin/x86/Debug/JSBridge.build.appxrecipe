@@ -18,12 +18,6 @@
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\App7.exe">
-      <PackagePath>App7.exe</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\App7.xr.xml">
-      <PackagePath>App7.xr.xml</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
     </AppxPackagedFile>
@@ -50,9 +44,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\ClrCompression.dll">
       <PackagePath>ClrCompression.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\entrypoint\App7.exe">
-      <PackagePath>entrypoint\App7.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\entrypoint\JSBridge.exe">
       <PackagePath>entrypoint\JSBridge.exe</PackagePath>
@@ -401,9 +392,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\window.winmd">
-      <PackagePath>window.winmd</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\WinMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>

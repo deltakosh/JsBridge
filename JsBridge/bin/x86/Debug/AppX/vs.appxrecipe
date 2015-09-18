@@ -22,18 +22,10 @@
     <AppXManifest Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-16T22:43:24.008</Modified>
+      <Modified>2015-09-18T22:15:28.120</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\App7.exe">
-      <PackagePath>App7.exe</PackagePath>
-      <Modified>2015-09-11T18:49:59.232</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\App7.xr.xml">
-      <PackagePath>App7.xr.xml</PackagePath>
-      <Modified>2015-09-10T20:51:48.483</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
       <Modified>2015-09-10T20:50:44.743</Modified>
@@ -70,21 +62,17 @@
       <PackagePath>ClrCompression.dll</PackagePath>
       <Modified>2015-08-03T21:17:37.780</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\entrypoint\App7.exe">
-      <PackagePath>entrypoint\App7.exe</PackagePath>
-      <Modified>2015-09-11T18:49:59.232</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\entrypoint\JSBridge.exe">
       <PackagePath>entrypoint\JSBridge.exe</PackagePath>
-      <Modified>2015-09-16T22:43:21.489</Modified>
+      <Modified>2015-09-18T22:15:27.506</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\JSBridge.exe">
       <PackagePath>JSBridge.exe</PackagePath>
-      <Modified>2015-09-16T22:43:24.008</Modified>
+      <Modified>2015-09-18T22:15:28.119</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\JSBridge.xr.xml">
       <PackagePath>JSBridge.xr.xml</PackagePath>
-      <Modified>2015-09-11T22:30:33.849</Modified>
+      <Modified>2015-09-18T17:22:05.649</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\JSE.winmd">
       <PackagePath>JSE.winmd</PackagePath>
@@ -132,11 +120,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\refs\injection.js">
       <PackagePath>refs\injection.js</PackagePath>
-      <Modified>2015-09-16T21:08:00.558</Modified>
+      <Modified>2015-09-18T17:40:57.288</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-09-16T22:43:21.974</Modified>
+      <Modified>2015-09-18T17:22:07.043</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\sampleCode\sample.js">
       <PackagePath>sampleCode\sample.js</PackagePath>
@@ -537,10 +525,6 @@
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-08-03T21:17:31.818</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\window.winmd">
-      <PackagePath>window.winmd</PackagePath>
-      <Modified>2015-09-11T18:52:33.466</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\WinMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
