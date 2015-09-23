@@ -8,11 +8,17 @@ using Models;
 
 namespace ViewModels
 {
-    public sealed class peopleManager
-    {
-        private static EventRegistrationTokenTable<EventHandler<People[]>> onPeopleReceived;
+    public delegate void ExecuteFunctionHandler();
 
-        public static event EventHandler<People[]> OnPeopleReceived
+    public sealed class DataManager
+    {
+        private static DataManager current;
+        public static DataManager Current => current ?? (current = new DataManager());
+
+        // When people list is ready
+        private EventRegistrationTokenTable<EventHandler<People[]>> onPeopleReceived;
+
+        public event EventHandler<People[]> OnPeopleReceived
         {
             add
             {
@@ -33,6 +39,14 @@ namespace ViewModels
             EventHandler<People[]> temp = EventRegistrationTokenTable<EventHandler<People[]>>.GetOrCreateEventRegistrationTokenTable(ref onPeopleReceived).InvocationList;
 
             temp?.Invoke(null, people);
+        }
+
+        // Commit
+        public ExecuteFunctionHandler commitFunction { get; set; }
+
+        public void Commit()
+        {
+            commitFunction?.Invoke();
         }
     }
 }

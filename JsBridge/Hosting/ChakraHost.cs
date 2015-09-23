@@ -4,6 +4,7 @@ using System.Threading.Tasks;
 using Windows.Storage;
 using JSBridge.Hosting;
 using JSBridge.Hosting.Functions;
+using ViewModels;
 
 namespace JSBridge
 {
@@ -54,7 +55,7 @@ namespace JSBridge
 
             ProjectObjectToGlobal(new JSE.console(), "console");
             ProjectObjectToGlobal(new JSE.window(), "window");
-            ProjectObjectToGlobal(new ViewModels.peopleManager(), "peopleManager");
+            ProjectObjectToGlobal(DataManager.Current, "dataManager");
 
             // Add references
             await AddScriptReferenceAsync("injection.js");

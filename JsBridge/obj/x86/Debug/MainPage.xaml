@@ -5,24 +5,30 @@
     xmlns:local="using:JSBridge"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:models="using:Models"
                               
     mc:Ignorable="d">
 
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition/>
+            <RowDefinition Height="Auto"/>
             <RowDefinition Height="200"/>
         </Grid.RowDefinitions>
         <GridView x:ConnectionId='2' x:Name="GridView" Margin="10">
             <GridView.ItemTemplate>
-                <DataTemplate>
-                    <Grid Width="200" Height="50" Background="BlueViolet" Padding="10">
+                <DataTemplate                           >
+                    <Grid x:ConnectionId='6' Width="300" Height="60" Background="BlueViolet" Padding="10">
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition/>
                             <ColumnDefinition/>
+                            <ColumnDefinition/>
                         </Grid.ColumnDefinitions>
-                        <TextBlock Text="{Binding firstname}" VerticalAlignment="Center" Foreground="White"></TextBlock>
-                        <TextBlock Text="{Binding lastname}" Grid.Column="1" Margin="20,0,0,0" FontWeight="Bold" VerticalAlignment="Center"  Foreground="White"></TextBlock>
+                        <TextBlock x:ConnectionId='7'                           VerticalAlignment="Center" Foreground="White"></TextBlock>
+                        <TextBlock x:ConnectionId='8'                          Grid.Column="1" Margin="20,0,20,0" FontWeight="Bold" VerticalAlignment="Center"  Foreground="White"></TextBlock>
+                        <StackPanel Grid.Column="2">
+                            <Button x:ConnectionId='9' x:Name="DeleteButton"                              Foreground="White">Delete</Button>
+                        </StackPanel>
                     </Grid>
                 </DataTemplate>
             </GridView.ItemTemplate>
@@ -32,7 +38,10 @@
                 </ItemsPanelTemplate>
             </GridView.ItemsPanel>
         </GridView>
-        <ScrollViewer x:ConnectionId='3' MinHeight="200" Grid.Row="1" x:Name="JsOutputScroll" BorderBrush="#FF858585" BorderThickness="2" VerticalScrollBarVisibility="Auto" Margin="0,10,0,0">
+        <Grid Grid.Row="1">
+            <Button x:ConnectionId='5' x:Name="CommitButton"                             >Commit</Button>
+        </Grid>
+        <ScrollViewer x:ConnectionId='3' MinHeight="200" Grid.Row="2" x:Name="JsOutputScroll" BorderBrush="#FF858585" BorderThickness="2" VerticalScrollBarVisibility="Auto" Margin="0,10,0,0">
             <TextBlock x:ConnectionId='4' x:Name="JsConsole" TextWrapping="Wrap"/>
         </ScrollViewer>
     </Grid>

@@ -1718,7 +1718,7 @@
                     callback(null, xhr);
                 }
             };
-            console.log("opening request");
+            console.log("opening request on " + url);
             xhr.open(httpMethod, url);
             console.log("setting headers");
             for (var key in headers) {

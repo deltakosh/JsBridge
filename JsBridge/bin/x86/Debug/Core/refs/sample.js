@@ -18,14 +18,23 @@ CDCService.connect(function (results) {
     } else {
         console.log("CDCService is good to go!");
 
-        var models = [];
+        console.log("Getting list of people");
+        var peopleList = [];
         for (var index = 0; index < results.table.length; index++) {
             var people = new Models.People();
-            people.firstname = results.table[index].firstname;
-            people.lastname = results.table[index].lastname;
-            models.push(people);
+            people.firstName = results.table[index].firstname;
+            people.lastName = results.table[index].lastname;
+            peopleList.push(people);
         }
 
-        peopleManager.raiseOnPeopleReceived(models);
+        dataManager.raiseOnPeopleReceived(peopleList);
     }
 }, dataContext, onUpdateDataContext, 3);
+
+dataManager.commitFunction = function () {
+    CDCService.commit(function () {
+        console.log('Commit successful');
+    }, function (e) {
+        console.log('Error during commit');
+    });
+}

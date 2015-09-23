@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>64d43b9f-fae6-410a-a7a7-b9d86d80db25</PackageIdentityName>
     <IntermediateOutputPath>D:\Repos\JsBridge\JsBridge\obj\x86\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>048965A1F1F15D3FCFEB04D0FD8075216D2876D67CD992A4930ED6B670357BB4</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>B8535C5AB347236364A7DC99041EEC76BE90657BCC58F89F7BA9A9603B177A61</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>64d43b9f-fae6-410a-a7a7-b9d86d80db25_1.0.0.0_x86__ecg4g4sg63r9e</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>64d43b9f-fae6-410a-a7a7-b9d86d80db25_ecg4g4sg63r9e!App</RegisteredUserModeAppID>
     <RegisteredPackageID>64d43b9f-fae6-410a-a7a7-b9d86d80db25</RegisteredPackageID>
@@ -22,7 +22,7 @@
     <AppXManifest Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-18T23:52:19.017</Modified>
+      <Modified>2015-09-23T19:56:12.966</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -64,19 +64,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\entrypoint\JSBridge.exe">
       <PackagePath>entrypoint\JSBridge.exe</PackagePath>
-      <Modified>2015-09-18T23:52:18.226</Modified>
+      <Modified>2015-09-23T19:56:12.184</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\JSBridge.exe">
       <PackagePath>JSBridge.exe</PackagePath>
-      <Modified>2015-09-18T23:52:19.016</Modified>
+      <Modified>2015-09-23T19:56:12.963</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\JSBridge.xr.xml">
       <PackagePath>JSBridge.xr.xml</PackagePath>
-      <Modified>2015-09-18T23:52:18.120</Modified>
+      <Modified>2015-09-23T18:42:27.494</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\JSE.winmd">
       <PackagePath>JSE.winmd</PackagePath>
-      <Modified>2015-09-18T22:19:58.833</Modified>
+      <Modified>2015-09-23T19:54:05.544</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -104,7 +104,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\Models.winmd">
       <PackagePath>Models.winmd</PackagePath>
-      <Modified>2015-09-18T23:03:10.037</Modified>
+      <Modified>2015-09-23T17:51:38.089</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -112,7 +112,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\refs\azuremobileservices.js">
       <PackagePath>refs\azuremobileservices.js</PackagePath>
-      <Modified>2015-09-16T21:09:11.491</Modified>
+      <Modified>2015-09-23T19:32:52.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\refs\cdc-azuremobileservices.js">
       <PackagePath>refs\cdc-azuremobileservices.js</PackagePath>
@@ -128,11 +128,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\refs\sample.js">
       <PackagePath>refs\sample.js</PackagePath>
-      <Modified>2015-09-18T23:45:46.052</Modified>
+      <Modified>2015-09-23T18:30:26.259</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-09-18T23:52:18.768</Modified>
+      <Modified>2015-09-23T19:36:07.063</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\sampleCode\sample.js">
       <PackagePath>sampleCode\sample.js</PackagePath>
@@ -536,7 +536,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\ViewModels.winmd">
       <PackagePath>ViewModels.winmd</PackagePath>
-      <Modified>2015-09-18T23:45:10.147</Modified>
+      <Modified>2015-09-23T18:39:52.539</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\WinMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>

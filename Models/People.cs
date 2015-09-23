@@ -8,7 +8,7 @@ namespace Models
 {
     public sealed class People
     {
-        public string firstname { get; set; }
-        public string lastname { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
     }
 }

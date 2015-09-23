@@ -65,17 +65,21 @@ namespace JSE
             readyState = 1;
         }
 
-        public void send()
+        public void send(string data)
         {
-            SendAsync();
+            SendAsync(data);
         }
 
-        async void SendAsync()
+        async void SendAsync(string data)
         {
             using (var httpClient = new HttpClient())
             {
                 foreach (var header in headers)
                 {
+                    if (header.Key.StartsWith("Content"))
+                    {
+                        continue;
+                    }
                     httpClient.DefaultRequestHeaders.Add(header.Key, header.Value);
                 }
 
@@ -83,6 +87,17 @@ namespace JSE
 
                 switch (httpMethod)
                 {
+                    case "PATCH":
+                        using (var response = await httpClient.PostAsync(uri, new StringContent(data)))
+                        {
+                            using (var content = response.Content)
+                            {
+                                responseType = "text";
+                                responseText = await content.ReadAsStringAsync();
+                                readyState = 4;
+                            }
+                        }
+                        break;
                     case "GET":
                     default:
                         using (var response = await httpClient.GetAsync(uri))
@@ -95,7 +110,7 @@ namespace JSE
                             }
                         }
                         break;
-                }                
+                }
             }
         }
     }

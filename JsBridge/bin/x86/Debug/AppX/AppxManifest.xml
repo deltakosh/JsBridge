@@ -37,11 +37,11 @@
     <Extension Category="windows.activatableClass.inProcessServer">
       <InProcessServer>
         <Path>JSBridge.exe</Path>
-        <ActivatableClass ActivatableClassId="ViewModels.peopleManager" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="JSE.window" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="JSE.console" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="JSE.XMLHttpRequest" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="JSE.console" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="JSE.window" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="Models.People" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="ViewModels.DataManager" ThreadingModel="both" />
       </InProcessServer>
     </Extension>
   </Extensions>
