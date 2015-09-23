@@ -24,9 +24,17 @@ namespace JSE
             {
                 _readyState = value;
 
-                onreadystatechange?.Invoke();
+             //   try
+                {
+                    onreadystatechange?.Invoke();
+                }
+               // catch
+                {
+                }
             }
         }
+
+        public string response => responseText;
 
         public string responseText
         {
@@ -99,7 +107,6 @@ namespace JSE
                         }
                         break;
                     case "GET":
-                    default:
                         using (var response = await httpClient.GetAsync(uri))
                         {
                             using (var content = response.Content)

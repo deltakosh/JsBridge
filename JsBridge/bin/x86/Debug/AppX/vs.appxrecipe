@@ -22,7 +22,7 @@
     <AppXManifest Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-23T19:56:12.966</Modified>
+      <Modified>2015-09-23T22:31:52.253</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -64,11 +64,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\entrypoint\JSBridge.exe">
       <PackagePath>entrypoint\JSBridge.exe</PackagePath>
-      <Modified>2015-09-23T19:56:12.184</Modified>
+      <Modified>2015-09-23T22:31:51.682</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\JSBridge.exe">
       <PackagePath>JSBridge.exe</PackagePath>
-      <Modified>2015-09-23T19:56:12.963</Modified>
+      <Modified>2015-09-23T22:31:52.251</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\JSBridge.xr.xml">
       <PackagePath>JSBridge.xr.xml</PackagePath>
@@ -76,7 +76,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\JSE.winmd">
       <PackagePath>JSE.winmd</PackagePath>
-      <Modified>2015-09-23T19:54:05.544</Modified>
+      <Modified>2015-09-23T22:30:27.919</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -112,7 +112,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\refs\azuremobileservices.js">
       <PackagePath>refs\azuremobileservices.js</PackagePath>
-      <Modified>2015-09-23T19:32:52.619</Modified>
+      <Modified>2015-09-23T22:02:41.438</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\refs\cdc-azuremobileservices.js">
       <PackagePath>refs\cdc-azuremobileservices.js</PackagePath>
@@ -128,11 +128,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\refs\sample.js">
       <PackagePath>refs\sample.js</PackagePath>
-      <Modified>2015-09-23T18:30:26.259</Modified>
+      <Modified>2015-09-23T22:29:30.221</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-09-23T19:36:07.063</Modified>
+      <Modified>2015-09-23T21:49:26.745</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repos\JsBridge\JsBridge\bin\x86\Debug\Core\sampleCode\sample.js">
       <PackagePath>sampleCode\sample.js</PackagePath>

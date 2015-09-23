@@ -153,6 +153,9 @@ namespace JSBridge
             JavaScriptValue function = JavaScriptValue.CreateFunction(callback, IntPtr.Zero);
 
             globalObject.SetProperty(propertyId, function, true);
+
+            uint refCount;
+            Native.JsAddRef(function, out refCount);
         }
 
         private static void DefineHostProperty(string callbackName, JavaScriptValue value)
@@ -162,6 +165,9 @@ namespace JSBridge
 
             JavaScriptPropertyId propertyId = JavaScriptPropertyId.FromString(callbackName);
             globalObject.SetProperty(propertyId, value, true);
+
+            uint refCount;
+            Native.JsAddRef(value, out refCount);
         }
 
         private static string ProjectObjectToGlobal(object objectToProject, string name)

@@ -458,7 +458,6 @@ D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\Assets\Square44x44Logo.targetsiz
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\Assets\StoreLogo.png
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\Assets\Wide310x150Logo.scale-200.png
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\ClrCompression.dll
-D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\entrypoint\JSBridge.exe
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\JSBridge.exe
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\JSBridge.pdb
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\JSBridge.xr.xml
@@ -476,7 +475,6 @@ D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\refs\cdc-azuremobileservices.js
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\refs\cdc.js
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\refs\injection.js
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\resources.pri
-D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\sampleCode\sample.js
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.AppContext.dll
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Collections.Concurrent.dll
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\System.Collections.dll
@@ -599,3 +597,5 @@ D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\ViewModels.pdb
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\Core\ViewModels.winmd
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\ViewModels.pdb
 D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\ViewModels.winmd
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\entrypoint\JSBridge.exe
+D:\Repos\JsBridge\JsBridge\obj\x86\Debug\ilc\in\sampleCode\sample.js

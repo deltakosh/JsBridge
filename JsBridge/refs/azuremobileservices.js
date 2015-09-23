@@ -1716,6 +1716,7 @@
             xhr.onreadystatechange = function () {
                 if (xhr.readyState === 4) {
                     callback(null, xhr);
+                    console.log("response received");
                 }
             };
             console.log("opening request on " + url);
@@ -2870,6 +2871,7 @@
                             frame.chainedPromise._resolve(passthroughState, passthroughValue);
                         }
                     }, this), 1);
+                    console.log("s2");
                 } else {
                     // No callback of the applicable type, so transparently pass existing state/value down the chain
                     frame.chainedPromise._resolve(this._resolutionState, this._resolutionValueOrError);
