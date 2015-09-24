@@ -1,1 +1,0 @@
-﻿XMLHttpRequest = JSE.XMLHttpRequest;

@@ -35,11 +35,13 @@
     <Extension Category="windows.activatableClass.inProcessServer">
       <InProcessServer>
         <Path>CLRHost.dll</Path>
-        <ActivatableClass ActivatableClassId="JSE.XMLHttpRequest" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="JSE.console" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="JSE.window" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Models.People" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="ViewModels.DataManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Chakra.ChakraHost" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Chakra.Window" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Chakra.CoreTools" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Chakra.XMLHttpRequest" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Chakra.Console" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Entities.DataManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Entities.People" ThreadingModel="both" />
       </InProcessServer>
     </Extension>
   </Extensions>
@@ -48,11 +50,11 @@
     <build:Item Name="VisualStudio" Version="14.0" />
     <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Enterprise 2015" />
     <build:Item Name="OperatingSystem" Version="10.0.10240.16425 (th1.150802-1600)" />
-    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="14.0.23121.0" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="14.0.23311.4" />
     <build:Item Name="ProjectGUID" Value="{C6E2735A-015C-48EC-B34B-8177934AF92D}" />
     <build:Item Name="OptimizingToolset" Value="None" />
     <build:Item Name="TargetRuntime" Value="Managed" />
-    <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="14.0.23121.0" />
+    <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="14.0.23309.0" />
     <build:Item Name="MakePri.exe" Version="10.0.10240.16384 (th1.150709-1700)" />
   </build:Metadata>
 </Package>

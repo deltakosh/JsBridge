@@ -2851,7 +2851,6 @@
                     // Call the supplied callback either to transform the result (for success) or to handle the error (for error)
                     // The setTimeout ensures handlers are always invoked asynchronosly, even if the promise was already resolved,
                     // to avoid callers having to differentiate between sync/async cases
-                    console.log("s1");
                     setTimeout(bind(function () {
                         var passthroughValue, passthroughState, callbackDidNotThrow = true;
                         try {
@@ -2871,7 +2870,6 @@
                             frame.chainedPromise._resolve(passthroughState, passthroughValue);
                         }
                     }, this), 1);
-                    console.log("s2");
                 } else {
                     // No callback of the applicable type, so transparently pass existing state/value down the chain
                     frame.chainedPromise._resolve(this._resolutionState, this._resolutionValueOrError);

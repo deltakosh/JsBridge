@@ -1,5 +1,3 @@
+D:\Repos\JsBridge\Chakra\Chakra.csproj;neutral
+D:\Repos\JsBridge\Entities\Entities.csproj;neutral
 D:\Repos\JsBridge\JsBridge\JSBridge.csproj;x86
-D:\Repos\JsBridge\JSE\JSE.csproj;neutral
-D:\Repos\JsBridge\Models\Models.csproj;neutral
-D:\Repos\JsBridge\Models\Models.csproj;neutral
-D:\Repos\JsBridge\ViewModels\ViewModels.csproj;neutral

@@ -5,7 +5,7 @@
     xmlns:local="using:JSBridge"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    xmlns:models="using:Models"
+    xmlns:entities="using:Entities"
                               
     mc:Ignorable="d">
 
@@ -17,17 +17,17 @@
         </Grid.RowDefinitions>
         <GridView x:ConnectionId='2' x:Name="GridView" Margin="10">
             <GridView.ItemTemplate>
-                <DataTemplate                           >
-                    <Grid x:ConnectionId='6' Width="300" Height="60" Background="BlueViolet" Padding="10">
+                <DataTemplate                             >
+                    <Grid x:ConnectionId='7' Width="300" Height="60" Background="BlueViolet" Padding="10">
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition/>
                             <ColumnDefinition/>
                             <ColumnDefinition/>
                         </Grid.ColumnDefinitions>
-                        <TextBlock x:ConnectionId='7'                           VerticalAlignment="Center" Foreground="White"></TextBlock>
-                        <TextBlock x:ConnectionId='8'                          Grid.Column="1" Margin="20,0,20,0" FontWeight="Bold" VerticalAlignment="Center"  Foreground="White"></TextBlock>
+                        <TextBlock x:ConnectionId='8'                           VerticalAlignment="Center" Foreground="White"></TextBlock>
+                        <TextBlock x:ConnectionId='9'                          Grid.Column="1" Margin="20,0,20,0" FontWeight="Bold" VerticalAlignment="Center"  Foreground="White"></TextBlock>
                         <StackPanel Grid.Column="2">
-                            <Button x:ConnectionId='9' x:Name="DeleteButton"                              Foreground="White">Delete</Button>
+                            <Button x:ConnectionId='10' x:Name="DeleteButton"                              Foreground="White">Delete</Button>
                         </StackPanel>
                     </Grid>
                 </DataTemplate>
@@ -38,8 +38,11 @@
                 </ItemsPanelTemplate>
             </GridView.ItemsPanel>
         </GridView>
-        <Grid Grid.Row="1">
-            <Button x:ConnectionId='5' x:Name="CommitButton"                             >Commit</Button>
+        <Grid Grid.Row="1" HorizontalAlignment="Center">
+            <StackPanel Orientation="Horizontal">
+                <Button x:ConnectionId='5' x:Name="CommitButton"                             >Commit</Button>
+                <Button x:ConnectionId='6' x:Name="RollbackButton"                                Margin="10,0,0,0">Rollback</Button>
+            </StackPanel>
         </Grid>
         <ScrollViewer x:ConnectionId='3' MinHeight="200" Grid.Row="2" x:Name="JsOutputScroll" BorderBrush="#FF858585" BorderThickness="2" VerticalScrollBarVisibility="Auto" Margin="0,10,0,0">
             <TextBlock x:ConnectionId='4' x:Name="JsConsole" TextWrapping="Wrap"/>

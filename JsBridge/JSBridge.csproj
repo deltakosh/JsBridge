@@ -97,7 +97,6 @@
     <Content Include="refs\azuremobileservices.js" />
     <Content Include="refs\cdc-azuremobileservices.js" />
     <Content Include="refs\cdc.js" />
-    <Content Include="refs\injection.js" />
     <Content Include="refs\sample.js" />
     <None Include="JsBridge_TemporaryKey.pfx" />
     <None Include="project.json" />
@@ -106,19 +105,6 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Hosting\ChakraHost.cs" />
-    <Compile Include="CoreTools.cs" />
-    <Compile Include="Hosting\Functions\SetTimeout.cs" />
-    <Compile Include="Hosting\Exceptions\JavaScriptEngineException.cs" />
-    <Compile Include="Hosting\JavaScriptEnum.cs" />
-    <Compile Include="Hosting\JavaScriptException.cs" />
-    <Compile Include="Hosting\Exceptions\JavaScriptFatalException.cs" />
-    <Compile Include="Hosting\JavaScriptPropertyId.cs" />
-    <Compile Include="Hosting\Exceptions\JavaScriptScriptException.cs" />
-    <Compile Include="Hosting\JavaScriptTypedef.cs" />
-    <Compile Include="Hosting\Exceptions\JavaScriptUsageException.cs" />
-    <Compile Include="Hosting\JavaScriptValue.cs" />
-    <Compile Include="Hosting\Native.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
@@ -150,17 +136,13 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\JSE\JSE.csproj">
-      <Project>{af66aef9-ba2f-4944-8245-95c442500063}</Project>
-      <Name>JSE</Name>
+    <ProjectReference Include="..\Chakra\Chakra.csproj">
+      <Project>{57b3b22b-0405-411d-b620-bbe31c24f698}</Project>
+      <Name>Chakra</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Models\Models.csproj">
-      <Project>{24fdc48e-f45f-43f2-8c95-555ef8377a3c}</Project>
-      <Name>Models</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\ViewModels\ViewModels.csproj">
-      <Project>{649c3836-d933-4ed7-b182-ff8d212bb21d}</Project>
-      <Name>ViewModels</Name>
+    <ProjectReference Include="..\Entities\Entities.csproj">
+      <Project>{95052172-fcde-4773-a71c-da8f7329cd60}</Project>
+      <Name>Entities</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">

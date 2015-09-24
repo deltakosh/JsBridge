@@ -1,11 +1,13 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.Threading.Tasks;
 using Windows.Storage;
 using Windows.UI.Core;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
-using Models;
-using ViewModels;
+using Chakra;
+using Entities;
 
 namespace JSBridge
 {
@@ -25,21 +27,33 @@ namespace JSBridge
             JsOutputScroll.ChangeView(null, double.MaxValue, null);
         }
 
+        async Task ReadAndExecute(string filename)
+        {
+            var script = await CoreTools.GetPackagedFileContentAsync("refs", filename);
+            host.RunScript(script);
+        }
+
         private async void MainPage_OnLoaded(object sender, RoutedEventArgs e)
         {
-            JSE.console.OnLog += Console_OnLog;
+            Console.OnLog += Console_OnLog;
             DataManager.Current.OnPeopleReceived += PeopleManager_OnPeopleReceived;
 
-            string msg = await host.InitAsync();
+            string msg = host.Init();
             if (msg != "NoError")
             {
                 JsConsole.Text = msg;
             }
 
+            host.ProjectObjectToGlobal(DataManager.Current, "dataManager");     
+            
+            host.ProjectNamespace("Entities");
+
             try
             {
-                await host.AddScriptReferenceAsync("sample.js");
-
+                await ReadAndExecute("cdc.js");
+                await ReadAndExecute("azuremobileservices.js");
+                await ReadAndExecute("cdc-azuremobileservices.js");
+                await ReadAndExecute("sample.js");
             }
             catch (Exception ex)
             {
@@ -47,10 +61,29 @@ namespace JSBridge
             }
         }
 
-        private void PeopleManager_OnPeopleReceived(object sender, Models.People[] peopleArray)
+        private void PeopleManager_OnPeopleReceived(object sender, IEnumerable<People> peopleArray)
         {
             peopleCollection = new ObservableCollection<People>(peopleArray);
+
+            peopleCollection.CollectionChanged += PeopleCollection_CollectionChanged;
+
             GridView.ItemsSource = peopleCollection;
+        }
+
+        private void PeopleCollection_CollectionChanged(object sender, System.Collections.Specialized.NotifyCollectionChangedEventArgs e)
+        {
+            if (e.OldItems != null && e.OldItems.Count > 0)
+            {
+                foreach (People people in e.OldItems)
+                {
+                    DataManager.Current.Delete(people);
+                }
+            }
+
+            if (e.NewItems != null && e.NewItems.Count > 0)
+            {
+                
+            }
         }
 
         private async void Console_OnLog(object sender, string text)
@@ -75,6 +108,11 @@ namespace JSBridge
         private void CommitButton_OnClick(object sender, RoutedEventArgs e)
         {
             DataManager.Current.Commit();
+        }
+
+        private void RollbackButton_OnClick(object sender, RoutedEventArgs e)
+        {
+            DataManager.Current.Rollback();
         }
     }
 }
