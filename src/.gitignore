@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/JsBridge/obj/x86/Debug/Core
+/JsBridge/bin/x86/Debug
+/Entities/bin/Debug
+/Entities/obj/Debug
+/Chakra/bin/Debug
+/Chakra/obj/Debug

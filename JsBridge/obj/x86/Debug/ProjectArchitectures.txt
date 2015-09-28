@@ -1,3 +1,0 @@
-D:\Repos\JsBridge\Chakra\Chakra.csproj;neutral
-D:\Repos\JsBridge\Entities\Entities.csproj;neutral
-D:\Repos\JsBridge\JsBridge\JSBridge.csproj;x86
