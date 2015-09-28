@@ -7,8 +7,8 @@
     <ProjectGuid>{57B3B22B-0405-411D-B620-BBE31C24F698}</ProjectGuid>
     <OutputType>winmdobj</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Chakra</RootNamespace>
-    <AssemblyName>Chakra</AssemblyName>
+    <RootNamespace>ChakraTools</RootNamespace>
+    <AssemblyName>ChakraTools</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetPlatformVersion>10.0.10240.0</TargetPlatformVersion>

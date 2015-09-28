@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Chakra
+namespace ChakraTools
 {
     internal static class SetTimeout
     {

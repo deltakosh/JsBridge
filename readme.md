@@ -5,9 +5,9 @@ JSBridge is a library you can reference in your UWP project to embed Microsoft C
 
 ## Solution content
 
-* ChakraTools is the WinRT component used to host Chakra JavaScript engine inside your application
-* Models is a WinRT component that contains models that you want to use in your application (Note to myself: I think this will be removed soon as this is no more required to be a winRT component)
-* JSBridge is the client C#/XAML application that will host Chakra JavaScript engine. 
+* **ChakraTools** is the WinRT component used to host Chakra JavaScript engine inside your application
+* **Models** is a WinRT component that contains models that you want to use in your application (Note to myself: I think this will be removed soon as this is no more required to be a winRT component)
+* **JSBridge** is the client C#/XAML application that will host Chakra JavaScript engine. 
 
 ## How to use it?
 

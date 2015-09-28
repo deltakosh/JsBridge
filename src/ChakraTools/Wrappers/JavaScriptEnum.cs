@@ -1,4 +1,4 @@
-﻿namespace Chakra
+﻿namespace ChakraTools
 {
     using System;
     using System.Diagnostics.CodeAnalysis;

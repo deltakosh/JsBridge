@@ -1,4 +1,4 @@
-﻿namespace Chakra
+﻿namespace ChakraTools
 {
     public sealed class Window
     {

@@ -6,7 +6,7 @@ using Windows.Storage;
 using Windows.UI.Core;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
-using Chakra;
+using ChakraTools;
 using Entities;
 
 namespace JSBridge
@@ -36,7 +36,15 @@ namespace JSBridge
         async Task DownloadAndExecute(string url)
         {
             var script = await CoreTools.DownloadStringAsync(url);
-            host.RunScript(script);
+
+            try
+            {
+                host.RunScript(script);
+            }
+            catch (Exception ex)
+            {
+                JsConsole.Text = ex.Message;
+            }            
         }
 
         private async void MainPage_OnLoaded(object sender, RoutedEventArgs e)
@@ -61,11 +69,13 @@ namespace JSBridge
                 WaitGrid.Visibility = Visibility.Collapsed;
             };
 
-
-            string msg = host.Init();
-            if (msg != "NoError")
+            try
             {
-                JsConsole.Text = msg;
+                host.Initialize();
+            }
+            catch (Exception ex)
+            {
+                JsConsole.Text = ex.Message;
             }
 
             //host.ProjectObjectToGlobal(DataManager.Current, "dataManager");     

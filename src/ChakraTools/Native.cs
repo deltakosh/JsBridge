@@ -1,4 +1,4 @@
-﻿namespace Chakra
+﻿namespace ChakraTools
 {
     using System;
     using System.Runtime.InteropServices;
@@ -6,7 +6,7 @@
     /// <summary>
     ///     Native interfaces.
     /// </summary>
-    public static class Native
+    internal static class Native
     {
         [DllImport("Chakra.dll")]
         internal static extern JavaScriptErrorCode JsCreateRuntime(JavaScriptRuntimeAttributes attributes, JavaScriptThreadServiceCallback threadService, out JavaScriptRuntime runtime);
@@ -268,9 +268,6 @@
 
         [DllImport("chakra.dll")]
         internal static extern JavaScriptErrorCode JsInspectableToObject([MarshalAs(UnmanagedType.IInspectable)] System.Object inspectable, out JavaScriptValue value);
-
-        [DllImport("chakra.dll")]
-        internal static extern JavaScriptErrorCode JsSetProjectionEnqueueCallback(JavaScriptProjectionEnqueueCallback projectionEnqueueCallback, IntPtr context);
 
         [DllImport("chakra.dll")]
         internal static extern JavaScriptErrorCode JsSetPromiseContinuationCallback(JavaScriptPromiseContinuationCallback promiseContinuationCallback, IntPtr callbackState);

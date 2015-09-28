@@ -8,7 +8,7 @@ using Windows.ApplicationModel;
 using Windows.Foundation;
 using Windows.Storage;
 
-namespace Chakra
+namespace ChakraTools
 {
     public static class CoreTools
     {

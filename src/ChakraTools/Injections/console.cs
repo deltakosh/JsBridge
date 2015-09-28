@@ -6,7 +6,7 @@ using System.Runtime.InteropServices.WindowsRuntime;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Chakra
+namespace ChakraTools
 {
     public sealed class Console
     {
