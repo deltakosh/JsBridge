@@ -3,6 +3,67 @@ JSBrige
 
 JSBridge is a library you can reference in your UWP project to embed Microsoft Chakra JavaScript engine in order to seamlessly use services provided by JavaScript framework.
 
+## How to use it?
+
+* Add a reference to Chakra.winmd (that you can find in /dist folder)
+* Create a new Chakra host: 
+
+```
+ChakraHost host = new ChakraHost();
+```
+
+* Define types that can be received from JavaScript context:
+
+```
+CommunicationManager.RegisterType(typeof(People[]));
+CommunicationManager.OnObjectReceived = (type, data) =>
+{
+    switch (type)
+    {
+        case "People[]":
+            var peopleList = (People[]) data;
+            peopleCollection = new ObservableCollection<People>(peopleList);
+
+            peopleCollection.CollectionChanged += PeopleCollection_CollectionChanged;
+
+            GridView.ItemsSource = peopleCollection;
+            break;
+    }
+    WaitGrid.Visibility = Visibility.Collapsed;
+};
+```
+
+* Use `RunScript` to execute either scripts that you can either load locally or download remotely:
+
+```
+async Task ReadAndExecute(string filename)
+{
+    var script = await CoreTools.GetPackagedFileContentAsync("refs", filename);
+    host.RunScript(script);
+}
+
+async Task DownloadAndExecute(string url)
+{
+	var script = await CoreTools.DownloadStringAsync(url);
+    host.RunScript(script);
+}
+
+await ReadAndExecute("azuremobileservices.js");
+```
+
+
+* Use sendHost global function in JavaScript to send data back to C# context:
+
+```
+sendToHost(JSON.stringify(data), "People[]");
+```
+
+* You can receive JavaScript console message by registering an event handler with `Console.OnLog`:
+
+```
+Console.OnLog += Console_OnLog;
+```
+
 ## Apache License 2.0 (Apache)
 
 Apache License

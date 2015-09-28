@@ -33,6 +33,12 @@ namespace JSBridge
             host.RunScript(script);
         }
 
+        async Task DownloadAndExecute(string url)
+        {
+            var script = await CoreTools.DownloadStringAsync(url);
+            host.RunScript(script);
+        }
+
         private async void MainPage_OnLoaded(object sender, RoutedEventArgs e)
         {
             WaitGrid.Visibility = Visibility.Visible;
