@@ -137,9 +137,9 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Chakra\Chakra.csproj">
+    <ProjectReference Include="..\ChakraTools\ChakraTools.csproj">
       <Project>{57b3b22b-0405-411d-b620-bbe31c24f698}</Project>
-      <Name>Chakra</Name>
+      <Name>ChakraTools</Name>
     </ProjectReference>
     <ProjectReference Include="..\Entities\Entities.csproj">
       <Project>{95052172-fcde-4773-a71c-da8f7329cd60}</Project>
