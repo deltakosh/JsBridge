@@ -114,6 +114,7 @@
     <Compile Include="Exceptions\JavaScriptScriptException.cs" />
     <Compile Include="Exceptions\JavaScriptUsageException.cs" />
     <Compile Include="Injections\Console.cs" />
+    <Compile Include="Injections\Functions\CommunicationManager.cs" />
     <Compile Include="Injections\Functions\SetTimeout.cs" />
     <Compile Include="Injections\Window.cs" />
     <Compile Include="Injections\XMLHttpRequest.cs" />

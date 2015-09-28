@@ -35,8 +35,26 @@ namespace JSBridge
 
         private async void MainPage_OnLoaded(object sender, RoutedEventArgs e)
         {
+            WaitGrid.Visibility = Visibility.Visible;
             Console.OnLog += Console_OnLog;
-            DataManager.Current.OnPeopleReceived += PeopleManager_OnPeopleReceived;
+
+            CommunicationManager.RegisterType(typeof(People[]));
+            CommunicationManager.OnObjectReceived = (type, data) =>
+            {
+                switch (type)
+                {
+                    case "People[]":
+                        var peopleList = (People[]) data;
+                        peopleCollection = new ObservableCollection<People>(peopleList);
+
+                        peopleCollection.CollectionChanged += PeopleCollection_CollectionChanged;
+
+                        GridView.ItemsSource = peopleCollection;
+                        break;
+                }
+                WaitGrid.Visibility = Visibility.Collapsed;
+            };
+
 
             string msg = host.Init();
             if (msg != "NoError")
@@ -44,9 +62,9 @@ namespace JSBridge
                 JsConsole.Text = msg;
             }
 
-            host.ProjectObjectToGlobal(DataManager.Current, "dataManager");     
-            
-            host.ProjectNamespace("Entities");
+            //host.ProjectObjectToGlobal(DataManager.Current, "dataManager");     
+            //host.ProjectNamespace("Entities");
+            //DataManager.Current.OnPeopleReceived += PeopleManager_OnPeopleReceived;
 
             try
             {
@@ -61,14 +79,14 @@ namespace JSBridge
             }
         }
 
-        private void PeopleManager_OnPeopleReceived(object sender, IEnumerable<People> peopleArray)
-        {
-            peopleCollection = new ObservableCollection<People>(peopleArray);
+        //private void PeopleManager_OnPeopleReceived(object sender, IEnumerable<People> peopleArray)
+        //{
+        //    peopleCollection = new ObservableCollection<People>(peopleArray);
 
-            peopleCollection.CollectionChanged += PeopleCollection_CollectionChanged;
+        //    peopleCollection.CollectionChanged += PeopleCollection_CollectionChanged;
 
-            GridView.ItemsSource = peopleCollection;
-        }
+        //    GridView.ItemsSource = peopleCollection;
+        //}
 
         private void PeopleCollection_CollectionChanged(object sender, System.Collections.Specialized.NotifyCollectionChangedEventArgs e)
         {
@@ -76,7 +94,8 @@ namespace JSBridge
             {
                 foreach (People people in e.OldItems)
                 {
-                    DataManager.Current.Delete(people);
+                    host.CallFunction("deleteFunction", people.Id);
+                    //DataManager.Current.Delete(people);
                 }
             }
 
@@ -107,12 +126,16 @@ namespace JSBridge
 
         private void CommitButton_OnClick(object sender, RoutedEventArgs e)
         {
+            WaitGrid.Visibility = Visibility.Visible;
+            host.CallFunction("commitFunction");
             DataManager.Current.Commit();
         }
 
         private void RollbackButton_OnClick(object sender, RoutedEventArgs e)
         {
-            DataManager.Current.Rollback();
+            WaitGrid.Visibility = Visibility.Visible;
+            host.CallFunction("rollbackFunction");
+            //DataManager.Current.Rollback();
         }
     }
 }

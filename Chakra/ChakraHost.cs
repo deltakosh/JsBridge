@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Runtime.InteropServices;
 using System.Threading.Tasks;
 using Windows.Foundation;
@@ -9,6 +10,7 @@ namespace Chakra
     public sealed class ChakraHost
     {
         private static JavaScriptNativeFunction SetTimeoutJavaScriptNativeFunction;
+        private static JavaScriptNativeFunction SendToHostJavaScriptNativeFunction;
         private static JavaScriptSourceContext currentSourceContext = JavaScriptSourceContext.FromIntPtr(IntPtr.Zero);
         private static JavaScriptRuntime runtime;
         private static JavaScriptValue promiseCallback;
@@ -41,6 +43,9 @@ namespace Chakra
             // setTimeout
             SetTimeoutJavaScriptNativeFunction = SetTimeout.SetTimeoutJavaScriptNativeFunction;
             DefineHostCallback("setTimeout", SetTimeoutJavaScriptNativeFunction);
+
+            SendToHostJavaScriptNativeFunction = CommunicationManager.SendToHostJavaScriptNativeFunction;
+            DefineHostCallback("sendToHost", SendToHostJavaScriptNativeFunction);
 
             // Projections
             if (Native.JsProjectWinRTNamespace("Chakra") != JavaScriptErrorCode.NoError)
@@ -159,6 +164,46 @@ namespace Chakra
             DefineHostProperty(name, value);
 
             return "NoError";
+        }
+
+        public void CallFunction(string name, params object[] parameters)
+        {
+            JavaScriptValue globalObject;
+            Native.JsGetGlobalObject(out globalObject);
+
+            JavaScriptPropertyId functionId = JavaScriptPropertyId.FromString(name);
+
+            var function = globalObject.GetProperty(functionId);
+
+            // Parameters
+            var javascriptParameters = new List<JavaScriptValue>();
+
+            javascriptParameters.Add(globalObject); // this value
+
+            foreach (var parameter in parameters)
+            {
+                var parameterType = parameter.GetType().Name;
+                switch (parameterType)
+                {
+                    case "Int32":
+                        javascriptParameters.Add(JavaScriptValue.FromInt32((int)parameter));
+                        break;
+                    case "Double":
+                        javascriptParameters.Add(JavaScriptValue.FromDouble((double)parameter));
+                        break;
+                    case "Boolean":
+                        javascriptParameters.Add(JavaScriptValue.FromBoolean((bool)parameter));
+                        break;
+                    case "String":
+                        javascriptParameters.Add(JavaScriptValue.FromString((string)parameter));
+                        break;
+                    default:
+                        throw new Exception("Not supported type: " + parameterType);
+                }
+            }
+
+            // call function
+            function.CallFunction(javascriptParameters.ToArray());
         }
     }
 }

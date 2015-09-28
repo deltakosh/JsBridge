@@ -16,16 +16,7 @@ var onUpdateDataContext = function (data) {
 }
 
 var syncPeople = function (data) {
-    var peopleList = [];
-    for (var index = 0; index < data.length; index++) {
-        var people = new Entities.People();
-        people.firstName = data[index].firstname;
-        people.lastName = data[index].lastname;
-        people.index = index;
-        peopleList.push(people);
-    }
-
-    dataManager.raiseOnPeopleReceived(peopleList);
+    sendToHost(JSON.stringify(data), "People[]");
 }
 
 CDCService.connect(function (results) {
@@ -33,12 +24,10 @@ CDCService.connect(function (results) {
         console.log("CDCService must first be successfully initialized");
     } else {
         console.log("CDCService is good to go!");
-
-        syncPeople(results.table);
     }
 }, dataContext, onUpdateDataContext, 3);
 
-dataManager.commitFunction = function () {
+commitFunction = function () {
     CDCService.commit(function () {
         console.log('Commit successful');
     }, function (e) {
@@ -46,7 +35,7 @@ dataManager.commitFunction = function () {
     });
 }
 
-dataManager.rollbackFunction = function () {
+rollbackFunction = function () {
     CDCService.rollback(function () {
         console.log('Rollback successful');
     }, function (e) {
@@ -54,6 +43,14 @@ dataManager.rollbackFunction = function () {
     });
 }
 
-dataManager.deleteFunction = function (people) {
-    CDCService.remove("people", dataContext.people[people.index]);
+deleteFunction = function (id) {
+    console.log('Deleting ' + id);
+    for (var index = 0; index < dataContext.people.length; index++) {
+        var people = dataContext.people[index];
+
+        if (people.id === id) {
+            CDCService.remove("people", people);
+            break;
+        }
+    }
 }

@@ -47,5 +47,8 @@
         <ScrollViewer MinHeight="200" Grid.Row="2" x:Name="JsOutputScroll" BorderBrush="#FF858585" BorderThickness="2" VerticalScrollBarVisibility="Auto" Margin="0,10,0,0">
             <TextBlock x:Name="JsConsole" TextWrapping="Wrap"/>
         </ScrollViewer>
+        <Grid x:Name="WaitGrid" RowSpan="3" Background="Black" Opacity="0.5" Visibility="Collapsed">
+            <ProgressRing VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="BlueViolet" Width="64" Height="64"></ProgressRing>
+        </Grid>
     </Grid>
 </Page>

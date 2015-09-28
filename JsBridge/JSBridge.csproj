@@ -97,6 +97,7 @@
     <Content Include="refs\azuremobileservices.js" />
     <Content Include="refs\cdc-azuremobileservices.js" />
     <Content Include="refs\cdc.js" />
+    <Content Include="refs\sample2.js" />
     <Content Include="refs\sample.js" />
     <None Include="JsBridge_TemporaryKey.pfx" />
     <None Include="project.json" />

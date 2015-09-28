@@ -4,7 +4,8 @@
     <ProjectView>ProjectFiles</ProjectView>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
-    <DebugEngines>{F200A7E7-DEA5-11D0-B854-00A0244A1DE2}</DebugEngines>
+    <DebugEngines>
+    </DebugEngines>
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
 </Project>
