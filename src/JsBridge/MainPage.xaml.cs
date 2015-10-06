@@ -1,13 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Threading.Tasks;
-using Windows.Storage;
 using Windows.UI.Core;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using ChakraTools;
-using Entities;
 
 namespace JSBridge
 {
@@ -144,7 +141,7 @@ namespace JSBridge
         {
             WaitGrid.Visibility = Visibility.Visible;
             host.CallFunction("commitFunction");
-            DataManager.Current.Commit();
+            //DataManager.Current.Commit();
         }
 
         private void RollbackButton_OnClick(object sender, RoutedEventArgs e)

@@ -106,6 +106,7 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Entities\People.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
@@ -140,10 +141,6 @@
     <ProjectReference Include="..\ChakraTools\ChakraTools.csproj">
       <Project>{57b3b22b-0405-411d-b620-bbe31c24f698}</Project>
       <Name>ChakraTools</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Entities\Entities.csproj">
-      <Project>{95052172-fcde-4773-a71c-da8f7329cd60}</Project>
-      <Name>Entities</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
