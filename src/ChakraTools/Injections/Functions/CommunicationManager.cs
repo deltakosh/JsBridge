@@ -8,7 +8,7 @@ using Newtonsoft.Json;
 
 namespace ChakraTools
 {
-    public delegate void ObjectReceivedHandler(string type, object obj);
+    public delegate void ObjectReceivedHandler(object obj);
 
     public static class CommunicationManager
     {
@@ -39,7 +39,7 @@ namespace ChakraTools
 
             var poco = JsonConvert.DeserializeObject(json, type);
 
-            OnObjectReceived?.Invoke(typename, poco);
+            OnObjectReceived?.Invoke(poco);
 
             return JavaScriptValue.True;
         }

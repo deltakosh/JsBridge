@@ -10,8 +10,8 @@ namespace JSBridge
 {
     public sealed partial class MainPage
     {
-        readonly ChakraHost host = new ChakraHost();
-        ObservableCollection<People> peopleCollection; 
+        private ChakraHost host;
+        ObservableCollection<People> peopleCollection;
 
         public MainPage()
         {
@@ -41,7 +41,7 @@ namespace JSBridge
             catch (Exception ex)
             {
                 JsConsole.Text = ex.Message;
-            }            
+            }
         }
 
         private async void MainPage_OnLoaded(object sender, RoutedEventArgs e)
@@ -50,24 +50,20 @@ namespace JSBridge
             Console.OnLog += Console_OnLog;
 
             CommunicationManager.RegisterType(typeof(People[]));
-            CommunicationManager.OnObjectReceived = (type, data) =>
+            CommunicationManager.OnObjectReceived = (data) =>
             {
-                switch (type)
-                {
-                    case "People[]":
-                        var peopleList = (People[]) data;
-                        peopleCollection = new ObservableCollection<People>(peopleList);
+                var peopleList = (People[])data;
+                peopleCollection = new ObservableCollection<People>(peopleList);
 
-                        peopleCollection.CollectionChanged += PeopleCollection_CollectionChanged;
+                peopleCollection.CollectionChanged += PeopleCollection_CollectionChanged;
 
-                        GridView.ItemsSource = peopleCollection;
-                        break;
-                }
+                GridView.ItemsSource = peopleCollection;
                 WaitGrid.Visibility = Visibility.Collapsed;
             };
 
             try
             {
+                host = new ChakraHost();
                 host.Initialize();
             }
             catch (Exception ex)
@@ -114,7 +110,7 @@ namespace JSBridge
 
             if (e.NewItems != null && e.NewItems.Count > 0)
             {
-                
+
             }
         }
 
@@ -122,7 +118,7 @@ namespace JSBridge
         {
             await Dispatcher.RunAsync(CoreDispatcherPriority.Normal, () =>
             {
-                Log(text);                 
+                Log(text);
             });
         }
 
