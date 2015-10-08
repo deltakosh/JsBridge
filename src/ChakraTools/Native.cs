@@ -9,7 +9,8 @@
     internal static class Native
     {
         [DllImport("Chakra.dll")]
-        internal static extern JavaScriptErrorCode JsCreateRuntime(JavaScriptRuntimeAttributes attributes, JavaScriptThreadServiceCallback threadService, out JavaScriptRuntime runtime);
+        internal static extern JavaScriptErrorCode JsCreateRuntime(JavaScriptRuntimeAttributes attributes, 
+            JavaScriptThreadServiceCallback threadService, out JavaScriptRuntime runtime);
 
         [DllImport("Chakra.dll")]
         internal static extern JavaScriptErrorCode JsCollectGarbage(JavaScriptRuntime handle);
