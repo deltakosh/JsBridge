@@ -97,7 +97,6 @@
     <Content Include="refs\azuremobileservices.js" />
     <Content Include="refs\cdc-azuremobileservices.js" />
     <Content Include="refs\cdc.js" />
-    <Content Include="refs\sample2.js" />
     <Content Include="refs\sample.js" />
     <None Include="JsBridge_TemporaryKey.pfx" />
     <None Include="project.json" />
@@ -138,9 +137,9 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ChakraTools\ChakraTools.csproj">
+    <ProjectReference Include="..\ChakraBridge\ChakraBridge.csproj">
       <Project>{57b3b22b-0405-411d-b620-bbe31c24f698}</Project>
-      <Name>ChakraTools</Name>
+      <Name>ChakraBridge</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">

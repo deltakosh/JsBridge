@@ -1,4 +1,4 @@
-namespace ChakraTools
+namespace ChakraBridge
 {
     using System;
     using System.Runtime.Serialization;

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Windows.Foundation;
 using Windows.Storage;
 
-namespace ChakraTools
+namespace ChakraBridge
 {
     public sealed class ChakraHost
     {
@@ -50,14 +50,14 @@ namespace ChakraTools
             DefineHostCallback("sendToHost", SendToHostJavaScriptNativeFunction);
 
             // Projections
-            if (Native.JsProjectWinRTNamespace("ChakraTools") != JavaScriptErrorCode.NoError)
-                throw new Exception("failed to project ChakraTools namespace.");
+            if (Native.JsProjectWinRTNamespace("ChakraBridge") != JavaScriptErrorCode.NoError)
+                throw new Exception("failed to project ChakraBridge namespace.");
 
             ProjectObjectToGlobal(new Console(), "console");
             ProjectObjectToGlobal(new Window(), "window");
 
             // Add references
-            RunScript("XMLHttpRequest = ChakraTools.XMLHttpRequest;");
+            RunScript("XMLHttpRequest = ChakraBridge.XMLHttpRequest;");
 
 #if DEBUG
             // Debug

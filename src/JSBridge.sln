@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSBridge", "JsBridge\JSBridge.csproj", "{C6E2735A-015C-48EC-B34B-8177934AF92D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChakraTools", "ChakraTools\ChakraTools.csproj", "{57B3B22B-0405-411D-B620-BBE31C24F698}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChakraBridge", "ChakraBridge\ChakraBridge.csproj", "{57B3B22B-0405-411D-B620-BBE31C24F698}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

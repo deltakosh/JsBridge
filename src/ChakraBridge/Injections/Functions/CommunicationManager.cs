@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 
-namespace ChakraTools
+namespace ChakraBridge
 {
     public delegate void ObjectReceivedHandler(object obj);
 

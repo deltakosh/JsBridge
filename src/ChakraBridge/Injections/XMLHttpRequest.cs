@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Net.Http;
 
-namespace ChakraTools
+namespace ChakraBridge
 {
     public delegate void XHREventHandler();
 

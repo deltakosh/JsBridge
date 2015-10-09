@@ -1,28 +1,28 @@
-namespace ChakraTools
+﻿namespace ChakraBridge
 {
     using System;
     using System.Runtime.Serialization;
 
     /// <summary>
-    ///     An exception that occurred in the workings of the JavaScript engine itself.
+    ///     A fatal exception occurred.
     /// </summary>
-    internal class JavaScriptEngineException : JavaScriptException
+    internal class JavaScriptFatalException : JavaScriptException
     {
         /// <summary>
-        ///     Initializes a new instance of the <see cref="JavaScriptEngineException"/> class. 
+        ///     Initializes a new instance of the <see cref="JavaScriptFatalException"/> class. 
         /// </summary>
         /// <param name="code">The error code returned.</param>
-        public JavaScriptEngineException(JavaScriptErrorCode code) :
+        public JavaScriptFatalException(JavaScriptErrorCode code) :
             this(code, "A fatal exception has occurred in a JavaScript runtime")
         {
         }
 
         /// <summary>
-        ///     Initializes a new instance of the <see cref="JavaScriptEngineException"/> class. 
+        ///     Initializes a new instance of the <see cref="JavaScriptFatalException"/> class. 
         /// </summary>
         /// <param name="code">The error code returned.</param>
         /// <param name="message">The error message.</param>
-        public JavaScriptEngineException(JavaScriptErrorCode code, string message) :
+        public JavaScriptFatalException(JavaScriptErrorCode code, string message) :
             base(code, message)
         {
         }
