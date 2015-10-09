@@ -64,16 +64,11 @@ namespace JSBridge
             try
             {
                 host = new ChakraHost();
-                host.Initialize();
             }
             catch (Exception ex)
             {
                 JsConsole.Text = ex.Message;
             }
-
-            //host.ProjectObjectToGlobal(DataManager.Current, "dataManager");     
-            //host.ProjectNamespace("Entities");
-            //DataManager.Current.OnPeopleReceived += PeopleManager_OnPeopleReceived;
 
             try
             {
@@ -88,15 +83,6 @@ namespace JSBridge
             }
         }
 
-        //private void PeopleManager_OnPeopleReceived(object sender, IEnumerable<People> peopleArray)
-        //{
-        //    peopleCollection = new ObservableCollection<People>(peopleArray);
-
-        //    peopleCollection.CollectionChanged += PeopleCollection_CollectionChanged;
-
-        //    GridView.ItemsSource = peopleCollection;
-        //}
-
         private void PeopleCollection_CollectionChanged(object sender, System.Collections.Specialized.NotifyCollectionChangedEventArgs e)
         {
             if (e.OldItems != null && e.OldItems.Count > 0)
@@ -104,7 +90,6 @@ namespace JSBridge
                 foreach (People people in e.OldItems)
                 {
                     host.CallFunction("deleteFunction", people.Id);
-                    //DataManager.Current.Delete(people);
                 }
             }
 
@@ -137,14 +122,12 @@ namespace JSBridge
         {
             WaitGrid.Visibility = Visibility.Visible;
             host.CallFunction("commitFunction");
-            //DataManager.Current.Commit();
         }
 
         private void RollbackButton_OnClick(object sender, RoutedEventArgs e)
         {
             WaitGrid.Visibility = Visibility.Visible;
             host.CallFunction("rollbackFunction");
-            //DataManager.Current.Rollback();
         }
     }
 }

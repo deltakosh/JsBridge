@@ -9,14 +9,14 @@ namespace ChakraTools
 {
     public sealed class ChakraHost
     {
-        private static JavaScriptNativeFunction SetTimeoutJavaScriptNativeFunction;
-        private static JavaScriptNativeFunction SendToHostJavaScriptNativeFunction;
-        private static JavaScriptSourceContext currentSourceContext = JavaScriptSourceContext.FromIntPtr(IntPtr.Zero);
-        private static JavaScriptRuntime runtime;
-        private static JavaScriptValue promiseCallback;
-        private static JavaScriptContext context;
+        private readonly JavaScriptNativeFunction SetTimeoutJavaScriptNativeFunction; // Required to keep a reference
+        private readonly JavaScriptNativeFunction SendToHostJavaScriptNativeFunction; // Required to keep a reference
+        private JavaScriptSourceContext currentSourceContext = JavaScriptSourceContext.FromIntPtr(IntPtr.Zero);
+        private readonly JavaScriptRuntime runtime;
+        private JavaScriptValue promiseCallback;
+        private readonly JavaScriptContext context;
 
-        public void Initialize()
+        public ChakraHost()
         {
             if (Native.JsCreateRuntime(JavaScriptRuntimeAttributes.None, null, out runtime) !=
                 JavaScriptErrorCode.NoError)
