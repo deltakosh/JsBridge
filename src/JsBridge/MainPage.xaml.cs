@@ -61,6 +61,8 @@ namespace JSBridge
             try
             {
                 await ReadAndExecute("sample.js");
+
+                canvasCtrl.Invalidate();
             }
             catch (Exception ex)
             {
