@@ -53,11 +53,20 @@ namespace ChakraBridge
             if (Native.JsProjectWinRTNamespace("ChakraBridge") != JavaScriptErrorCode.NoError)
                 throw new Exception("failed to project ChakraBridge namespace.");
 
+            var wnd = new Window();
+
             ProjectObjectToGlobal(new Console(), "console");
-            ProjectObjectToGlobal(new Window(), "window");
+            ProjectObjectToGlobal(wnd, "window");
+            ProjectObjectToGlobal(wnd.navigator, "navigator");
+            ProjectObjectToGlobal(wnd.document, "document");
 
             // Add references
-            RunScript("XMLHttpRequest = ChakraBridge.XMLHttpRequest;");
+            RunScript(@"
+XMLHttpRequest = ChakraBridge.XMLHttpRequest;
+HTMLCanvasElement = ChakraBridge.HTMLCanvasElement;
+atob = window.atob;
+btoa = window.btoa;
+");
 
 #if DEBUG
             // Debug
