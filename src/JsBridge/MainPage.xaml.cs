@@ -13,10 +13,18 @@ namespace JSBridge
     public sealed partial class MainPage
     {
         private ChakraHost host;
+        private DispatcherTimer timer;
 
         public MainPage()
         {
             InitializeComponent();
+
+            this.timer = new DispatcherTimer {
+                Interval = TimeSpan.FromMilliseconds(1000d / 60)
+            };
+            this.timer.Tick += (o, e) => {
+                this.canvasCtrl.Invalidate();
+            };
         }
 
         private void Log(string text)
@@ -60,9 +68,11 @@ namespace JSBridge
 
             try
             {
-                await ReadAndExecute("sample.js");
+                //await ReadAndExecute("sample.js");
+                await ReadAndExecute("paper-full.js");
+                await ReadAndExecute("papersample.js");
 
-                canvasCtrl.Invalidate();
+                this.timer.Start();
             }
             catch (Exception ex)
             {
@@ -80,6 +90,7 @@ namespace JSBridge
 
         private void canvasCtrl_Draw(CanvasControl sender, CanvasDrawEventArgs args)
         {
+            host.CallFunction("drawScene");
             var target = (CanvasRenderTarget)this.host.Window.Render();
 
             args.DrawingSession.DrawImage(target);

@@ -12,6 +12,16 @@ namespace ChakraBridge
         string fillStyle { get; set; }
         float lineWidth { get; set; }
         string strokeStyle { get; set; }
+        void beginPath();
+        void clearRect(float x, float y, float width, float height);
+        void closePath();
         void fillRect(float x, float y, float width, float height);
+        IImageData getImageData(float sx, float sy, float sw, float sh);
+        void lineTo(float x, float y);
+        void moveTo(float x, float y);
+        void restore();
+        void save();
+        void stroke();
+        void transform(float a, float b, float c, float d, float e, float f);
     }
 }

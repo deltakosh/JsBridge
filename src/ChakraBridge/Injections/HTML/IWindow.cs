@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ChakraBridge
 {
-    public interface IWindow
+    public interface IWindow : IEventTarget
     {
         IDocument document { get; }
         ILocation location { get; }

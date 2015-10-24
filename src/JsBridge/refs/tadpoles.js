@@ -292,7 +292,7 @@
     //}
 }
 
-function render() {
+function drawScene() {
     paper.view.onFrame();
     paper.view.draw();
 }

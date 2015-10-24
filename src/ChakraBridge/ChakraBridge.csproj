@@ -133,7 +133,9 @@
     <Compile Include="Injections\HTML\IHTMLBodyElement.cs" />
     <Compile Include="Injections\HTML\IHTMLCanvasElement.cs" />
     <Compile Include="Injections\HTML\IHTMLElement.cs" />
+    <Compile Include="Injections\HTML\IImageData.cs" />
     <Compile Include="Injections\HTML\ILocation.cs" />
+    <Compile Include="Injections\HTML\ImageData.cs" />
     <Compile Include="Injections\HTML\INavigator.cs" />
     <Compile Include="Injections\HTML\INode.cs" />
     <Compile Include="Injections\HTML\IWindow.cs" />

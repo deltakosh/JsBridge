@@ -11026,14 +11026,14 @@ var CanvasView = View.extend({
 	_class: 'CanvasView',
 
 	initialize: function CanvasView(project, canvas) {
-		if (!(canvas instanceof HTMLCanvasElement)) {
-			var size = Size.read(arguments, 1);
-			if (size.isZero())
-				throw new Error(
-						'Cannot create CanvasView with the provided argument: '
-						+ [].slice.call(arguments, 1));
-			canvas = CanvasProvider.getCanvas(size);
-		}
+		//if (!(canvas instanceof HTMLCanvasElement)) {
+		//	var size = Size.read(arguments, 1);
+		//	if (size.isZero())
+		//		throw new Error(
+		//				'Cannot create CanvasView with the provided argument: '
+		//				+ [].slice.call(arguments, 1));
+		//	canvas = CanvasProvider.getCanvas(size);
+		//}
 		this._context = canvas.getContext('2d');
 		this._eventCounters = {};
 		this._pixelRatio = 1;
