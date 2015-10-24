@@ -13,8 +13,10 @@ namespace ChakraBridge
         float lineWidth { get; set; }
         string strokeStyle { get; set; }
         void beginPath();
+        void bezierCurveTo(float cp1x, float cp1y, float cp2x, float cp2y, float x, float y);
         void clearRect(float x, float y, float width, float height);
         void closePath();
+        void fill();
         void fillRect(float x, float y, float width, float height);
         IImageData getImageData(float sx, float sy, float sw, float sh);
         void lineTo(float x, float y);

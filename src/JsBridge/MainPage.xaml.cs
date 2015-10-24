@@ -23,6 +23,7 @@ namespace JSBridge
                 Interval = TimeSpan.FromMilliseconds(1000d / 60)
             };
             this.timer.Tick += (o, e) => {
+                host.CallFunction("drawScene");
                 this.canvasCtrl.Invalidate();
             };
         }
@@ -68,9 +69,16 @@ namespace JSBridge
 
             try
             {
+                // simple palette
                 //await ReadAndExecute("sample.js");
+
+                // animating rect
+                //await ReadAndExecute("paper-full.js");
+                //await ReadAndExecute("papersample.js");
+
+                // tadpoles
                 await ReadAndExecute("paper-full.js");
-                await ReadAndExecute("papersample.js");
+                await ReadAndExecute("tadpoles.js");
 
                 this.timer.Start();
             }
@@ -90,7 +98,6 @@ namespace JSBridge
 
         private void canvasCtrl_Draw(CanvasControl sender, CanvasDrawEventArgs args)
         {
-            host.CallFunction("drawScene");
             var target = (CanvasRenderTarget)this.host.Window.Render();
 
             args.DrawingSession.DrawImage(target);

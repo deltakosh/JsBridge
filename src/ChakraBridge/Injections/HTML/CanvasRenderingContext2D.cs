@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Microsoft.Graphics.Canvas;
+using Microsoft.Graphics.Canvas.Geometry;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Numerics;
@@ -15,6 +17,7 @@ namespace ChakraBridge
         private DrawingState state;
         private float x0;
         private float y0;
+        private CanvasPathBuilder pathBuilder;
 
         internal CanvasRenderingContext2D(Window window, IHTMLCanvasElement canvas)
         {
@@ -42,7 +45,7 @@ namespace ChakraBridge
 
         public float lineWidth
         {
-            get { return this.state.LineWidth;}
+            get { return this.state.LineWidth; }
             set { this.state.LineWidth = value; }
         }
 
@@ -61,6 +64,20 @@ namespace ChakraBridge
 
         public void beginPath()
         {
+            if (this.pathBuilder != null) {
+                closePath();
+            }
+
+            this.pathBuilder = new CanvasPathBuilder(CanvasDevice.GetSharedDevice());
+            
+        }
+
+        public void bezierCurveTo(float cp1x, float cp1y, float cp2x, float cp2y, float x, float y)
+        {
+            if (this.pathBuilder == null) {
+                beginPath();
+            }
+            this.pathBuilder.AddCubicBezier(new Vector2(cp1x, cp2y), new Vector2(cp2x, cp2y), new Vector2(x, y));
         }
 
         public void clearRect(float x, float y, float width, float height)
@@ -70,7 +87,22 @@ namespace ChakraBridge
 
         public void closePath()
         {
+            if (this.pathBuilder != null) {
+                this.pathBuilder.Dispose();
+                this.pathBuilder = null;
+            }
+        }
 
+        public void fill()
+        {
+            if (this.pathBuilder != null) {
+                this.pathBuilder.EndFigure(CanvasFigureLoop.Closed);
+                var geometry = CanvasGeometry.CreatePath(this.pathBuilder);
+                this.window.Session.Transform = this.state.Transform;
+                this.window.Session.FillGeometry(geometry, this.state.Fill);
+
+                closePath();
+            }
         }
 
         public void fillRect(float x, float y, float width, float height)
@@ -90,12 +122,15 @@ namespace ChakraBridge
         {
             this.window.Session.DrawLine(x0, y0, x, y, this.state.Stroke, this.state.LineWidth);
 
-            x0 = x;
-            y0 = y;
+            this.x0 = x;
+            this.y0 = y;
         }
 
         public void moveTo(float x, float y)
         {
+            if (this.pathBuilder != null) {
+                this.pathBuilder.BeginFigure(x, y);
+            }
             this.x0 = x;
             this.y0 = y;
         }
@@ -115,7 +150,15 @@ namespace ChakraBridge
 
         public void stroke()
         {
+            if (this.pathBuilder != null) {
+                this.pathBuilder.EndFigure(CanvasFigureLoop.Open);
+                var geometry = CanvasGeometry.CreatePath(this.pathBuilder);
 
+                this.window.Session.Transform = this.state.Transform;
+                this.window.Session.DrawGeometry(geometry, this.state.Stroke, this.state.LineWidth);
+
+                closePath();
+            }
         }
 
         public void transform(float a, float b, float c, float d, float e, float f)
