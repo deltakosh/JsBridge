@@ -15,6 +15,7 @@ namespace ChakraBridge
         private readonly JavaScriptRuntime runtime;
         private JavaScriptValue promiseCallback;
         private readonly JavaScriptContext context;
+        private Window window;
 
         public ChakraHost()
         {
@@ -53,17 +54,29 @@ namespace ChakraBridge
             if (Native.JsProjectWinRTNamespace("ChakraBridge") != JavaScriptErrorCode.NoError)
                 throw new Exception("failed to project ChakraBridge namespace.");
 
+            this.window = new Window();
+
             ProjectObjectToGlobal(new Console(), "console");
-            ProjectObjectToGlobal(new Window(), "window");
+            ProjectObjectToGlobal(this.window, "window");
+            ProjectObjectToGlobal(this.window.navigator, "navigator");
+            ProjectObjectToGlobal(this.window.document, "document");
 
             // Add references
             RunScript("XMLHttpRequest = ChakraBridge.XMLHttpRequest;");
+            RunScript("HTMLCanvasElement = ChakraBridge.IHTMLCanvasElement;");
+            RunScript("atob = window.atob;");
+            RunScript("btoa = window.btoa;");
 
 #if DEBUG
             // Debug
             if (Native.JsStartDebugging() != JavaScriptErrorCode.NoError)
                 throw new Exception("failed to start debugging.");
 #endif
+        }
+
+        public IWindow Window
+        {
+            get { return this.window; }
         }
 
         public void ProjectNamespace(string namespaceName)

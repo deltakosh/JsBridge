@@ -5,17 +5,27 @@ using Windows.UI.Core;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using ChakraBridge;
+using Microsoft.Graphics.Canvas.UI.Xaml;
+using Microsoft.Graphics.Canvas;
 
 namespace JSBridge
 {
     public sealed partial class MainPage
     {
         private ChakraHost host;
-        ObservableCollection<People> peopleCollection;
+        private DispatcherTimer timer;
 
         public MainPage()
         {
             InitializeComponent();
+
+            this.timer = new DispatcherTimer {
+                Interval = TimeSpan.FromMilliseconds(1000d / 60)
+            };
+            this.timer.Tick += (o, e) => {
+                host.CallFunction("drawScene");
+                this.canvasCtrl.Invalidate();
+            };
         }
 
         private void Log(string text)
@@ -46,20 +56,7 @@ namespace JSBridge
 
         private async void MainPage_OnLoaded(object sender, RoutedEventArgs e)
         {
-            WaitGrid.Visibility = Visibility.Visible;
             Console.OnLog += Console_OnLog;
-
-            CommunicationManager.RegisterType(typeof(People[]));
-            CommunicationManager.OnObjectReceived = (data) =>
-            {
-                var peopleList = (People[])data;
-                peopleCollection = new ObservableCollection<People>(peopleList);
-
-                peopleCollection.CollectionChanged += PeopleCollection_CollectionChanged;
-
-                GridView.ItemsSource = peopleCollection;
-                WaitGrid.Visibility = Visibility.Collapsed;
-            };
 
             try
             {
@@ -72,30 +69,22 @@ namespace JSBridge
 
             try
             {
-                await ReadAndExecute("cdc.js");
-                await ReadAndExecute("azuremobileservices.js");
-                await ReadAndExecute("cdc-azuremobileservices.js");
-                await ReadAndExecute("sample.js");
+                // simple palette
+                //await ReadAndExecute("sample.js");
+
+                // animating rect
+                //await ReadAndExecute("paper-full.js");
+                //await ReadAndExecute("papersample.js");
+
+                // tadpoles
+                await ReadAndExecute("paper-full.js");
+                await ReadAndExecute("tadpoles.js");
+
+                this.timer.Start();
             }
             catch (Exception ex)
             {
                 Log(ex.Message);
-            }
-        }
-
-        private void PeopleCollection_CollectionChanged(object sender, System.Collections.Specialized.NotifyCollectionChangedEventArgs e)
-        {
-            if (e.OldItems != null && e.OldItems.Count > 0)
-            {
-                foreach (People people in e.OldItems)
-                {
-                    host.CallFunction("deleteFunction", people.Id);
-                }
-            }
-
-            if (e.NewItems != null && e.NewItems.Count > 0)
-            {
-
             }
         }
 
@@ -107,27 +96,17 @@ namespace JSBridge
             });
         }
 
-        private void DeleteButton_OnClick(object sender, RoutedEventArgs e)
+        private void canvasCtrl_Draw(CanvasControl sender, CanvasDrawEventArgs args)
         {
-            var button = sender as Button;
-            if (button != null)
-            {
-                var people = button.DataContext as People;
+            var target = (CanvasRenderTarget)this.host.Window.Render();
 
-                peopleCollection.Remove(people);
-            }
+            args.DrawingSession.DrawImage(target);
         }
 
-        private void CommitButton_OnClick(object sender, RoutedEventArgs e)
+        private void Page_Unloaded(object sender, RoutedEventArgs e)
         {
-            WaitGrid.Visibility = Visibility.Visible;
-            host.CallFunction("commitFunction");
-        }
-
-        private void RollbackButton_OnClick(object sender, RoutedEventArgs e)
-        {
-            WaitGrid.Visibility = Visibility.Visible;
-            host.CallFunction("rollbackFunction");
+            this.canvasCtrl.RemoveFromVisualTree();
+            this.canvasCtrl = null;
         }
     }
 }
