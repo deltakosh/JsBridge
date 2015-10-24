@@ -119,6 +119,7 @@
     <Compile Include="Injections\HTML\CanvasRenderingContext2D.cs" />
     <Compile Include="Injections\HTML\CSSStyleDeclaration.cs" />
     <Compile Include="Injections\HTML\Document.cs" />
+    <Compile Include="Injections\HTML\DrawingState.cs" />
     <Compile Include="Injections\HTML\EventTarget.cs" />
     <Compile Include="Injections\HTML\Element.cs" />
     <Compile Include="Injections\HTML\HTMLBodyElement.cs" />

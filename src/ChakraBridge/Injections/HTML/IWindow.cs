@@ -14,5 +14,7 @@ namespace ChakraBridge
 
         string btoa(string stringToEncode);
         string atob(string encodedData);
+
+        object Render();
     }
 }

@@ -13,9 +13,11 @@ namespace ChakraBridge
         {
         }
 
+        public int clientHeight { get; private set; } = 500;
         public int clientLeft { get; private set; }
 
         public int clientTop { get; private set; }
+        public int clientWidth { get; private set; } = 500;
 
         public string getAttribute(string attributeName)
         {

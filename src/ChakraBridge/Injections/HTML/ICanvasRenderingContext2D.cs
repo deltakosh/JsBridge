@@ -9,7 +9,9 @@ namespace ChakraBridge
     public interface ICanvasRenderingContext2D
     {
         IHTMLCanvasElement canvas { get; }
-        object fillStyle { get; set; }
+        string fillStyle { get; set; }
+        float lineWidth { get; set; }
+        string strokeStyle { get; set; }
         void fillRect(float x, float y, float width, float height);
     }
 }

@@ -5,7 +5,8 @@
     xmlns:local="using:JSBridge"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    Loaded="MainPage_OnLoaded"
+    xmlns:canvas="using:Microsoft.Graphics.Canvas.UI.Xaml"
+    Loaded="MainPage_OnLoaded" Unloaded="Page_Unloaded"
     mc:Ignorable="d">
 
     <Grid>
@@ -14,6 +15,11 @@
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="200"/>
         </Grid.RowDefinitions>
+
+        <Border BorderThickness="1" BorderBrush="Silver" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <canvas:CanvasControl x:Name="canvasCtrl" Draw="canvasCtrl_Draw" Width="500" Height="500"/>
+        </Border>
+
         <Grid Grid.Row="1" HorizontalAlignment="Center">
             <StackPanel Orientation="Horizontal">
             </StackPanel>

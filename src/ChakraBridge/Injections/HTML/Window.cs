@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Graphics.Canvas;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,9 +9,13 @@ namespace ChakraBridge
 {
     class Window : EventTarget, IWindow
     {
+        private CanvasRenderTarget target;
+        private CanvasDrawingSession session;
+
         public Window()
         {
             this.document = new Document(this);
+            this.target = new CanvasRenderTarget(CanvasDevice.GetSharedDevice(), 500, 500, 96);
         }
         public IDocument document { get; }
 
@@ -26,6 +31,26 @@ namespace ChakraBridge
         public string btoa(string stringToEncode)
         {
             return Convert.ToBase64String(Encoding.UTF8.GetBytes(stringToEncode));
+        }
+
+        public object Render()
+        {
+            if (this.session != null) {
+                this.session.Dispose();
+                this.session = null;
+            }
+            return this.target;
+        }
+
+        internal CanvasDrawingSession Session
+        {
+            get
+            {
+                if (this.session == null) {
+                    this.session = this.target.CreateDrawingSession();
+                }
+                return this.session;
+            }
         }
     }
 }

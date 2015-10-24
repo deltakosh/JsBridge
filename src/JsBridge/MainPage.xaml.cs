@@ -5,6 +5,8 @@ using Windows.UI.Core;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using ChakraBridge;
+using Microsoft.Graphics.Canvas.UI.Xaml;
+using Microsoft.Graphics.Canvas;
 
 namespace JSBridge
 {
@@ -72,6 +74,19 @@ namespace JSBridge
             {
                 Log(text);
             });
+        }
+
+        private void canvasCtrl_Draw(CanvasControl sender, CanvasDrawEventArgs args)
+        {
+            var target = (CanvasRenderTarget)this.host.Window.Render();
+
+            args.DrawingSession.DrawImage(target);
+        }
+
+        private void Page_Unloaded(object sender, RoutedEventArgs e)
+        {
+            this.canvasCtrl.RemoveFromVisualTree();
+            this.canvasCtrl = null;
         }
     }
 }
