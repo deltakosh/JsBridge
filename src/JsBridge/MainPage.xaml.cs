@@ -11,7 +11,6 @@ namespace JSBridge
     public sealed partial class MainPage
     {
         private ChakraHost host;
-        ObservableCollection<People> peopleCollection;
 
         public MainPage()
         {
@@ -46,20 +45,7 @@ namespace JSBridge
 
         private async void MainPage_OnLoaded(object sender, RoutedEventArgs e)
         {
-            WaitGrid.Visibility = Visibility.Visible;
             Console.OnLog += Console_OnLog;
-
-            CommunicationManager.RegisterType(typeof(People[]));
-            CommunicationManager.OnObjectReceived = (data) =>
-            {
-                var peopleList = (People[])data;
-                peopleCollection = new ObservableCollection<People>(peopleList);
-
-                peopleCollection.CollectionChanged += PeopleCollection_CollectionChanged;
-
-                GridView.ItemsSource = peopleCollection;
-                WaitGrid.Visibility = Visibility.Collapsed;
-            };
 
             try
             {
@@ -72,30 +58,11 @@ namespace JSBridge
 
             try
             {
-                await ReadAndExecute("cdc.js");
-                await ReadAndExecute("azuremobileservices.js");
-                await ReadAndExecute("cdc-azuremobileservices.js");
                 await ReadAndExecute("sample.js");
             }
             catch (Exception ex)
             {
                 Log(ex.Message);
-            }
-        }
-
-        private void PeopleCollection_CollectionChanged(object sender, System.Collections.Specialized.NotifyCollectionChangedEventArgs e)
-        {
-            if (e.OldItems != null && e.OldItems.Count > 0)
-            {
-                foreach (People people in e.OldItems)
-                {
-                    host.CallFunction("deleteFunction", people.Id);
-                }
-            }
-
-            if (e.NewItems != null && e.NewItems.Count > 0)
-            {
-
             }
         }
 
@@ -105,29 +72,6 @@ namespace JSBridge
             {
                 Log(text);
             });
-        }
-
-        private void DeleteButton_OnClick(object sender, RoutedEventArgs e)
-        {
-            var button = sender as Button;
-            if (button != null)
-            {
-                var people = button.DataContext as People;
-
-                peopleCollection.Remove(people);
-            }
-        }
-
-        private void CommitButton_OnClick(object sender, RoutedEventArgs e)
-        {
-            WaitGrid.Visibility = Visibility.Visible;
-            host.CallFunction("commitFunction");
-        }
-
-        private void RollbackButton_OnClick(object sender, RoutedEventArgs e)
-        {
-            WaitGrid.Visibility = Visibility.Visible;
-            host.CallFunction("rollbackFunction");
         }
     }
 }

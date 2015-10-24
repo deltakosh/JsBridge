@@ -14,5 +14,21 @@ namespace ChakraBridge
         }
 
         public IHTMLCanvasElement canvas { get; }
+
+        public object fillStyle
+        {
+            get
+            {
+                return null;
+            }
+
+            set
+            {
+            }
+        }
+
+        public void fillRect(float x, float y, float width, float height)
+        {
+        }
     }
 }
