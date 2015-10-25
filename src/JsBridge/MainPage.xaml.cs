@@ -68,11 +68,11 @@ namespace JSBridge
                 //await ReadAndExecute("sample.js");
 
                 // animating rect
-                //await ReadAndExecute("paper-full.js");
+                //await ReadAndExecute("paper-core.js");
                 //await ReadAndExecute("papersample.js");
 
                 // tadpoles
-                await ReadAndExecute("paper-full.js");
+                await ReadAndExecute("paper-core.js");
                 await ReadAndExecute("tadpoles.js");
 
                 this.initialized = true;

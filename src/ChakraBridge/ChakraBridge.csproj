@@ -124,6 +124,7 @@
     <Compile Include="Injections\HTML\Element.cs" />
     <Compile Include="Injections\HTML\HTMLBodyElement.cs" />
     <Compile Include="Injections\HTML\HTMLCanvasElement.cs" />
+    <Compile Include="Injections\HTML\HTMLCanvasElementWrapper.cs" />
     <Compile Include="Injections\HTML\HTMLElement.cs" />
     <Compile Include="Injections\HTML\ICanvasRenderingContext2D.cs" />
     <Compile Include="Injections\HTML\ICSSStyleDeclaration.cs" />

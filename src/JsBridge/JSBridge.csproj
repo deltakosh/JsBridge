@@ -94,7 +94,7 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="refs\paper-full.js" />
+    <Content Include="refs\paper-core.js" />
     <Content Include="refs\papersample.js" />
     <Content Include="refs\sample.js" />
     <Content Include="refs\tadpoles.js" />
