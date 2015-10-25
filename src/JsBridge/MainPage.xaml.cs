@@ -7,25 +7,20 @@ using Windows.UI.Xaml.Controls;
 using ChakraBridge;
 using Microsoft.Graphics.Canvas.UI.Xaml;
 using Microsoft.Graphics.Canvas;
+using Windows.UI;
 
 namespace JSBridge
 {
     public sealed partial class MainPage
     {
         private ChakraHost host;
-        private DispatcherTimer timer;
+        private DateTime start;
+        private int drawCount;
+        private bool initialized = false;
 
         public MainPage()
         {
             InitializeComponent();
-
-            this.timer = new DispatcherTimer {
-                Interval = TimeSpan.FromMilliseconds(1000d / 60)
-            };
-            this.timer.Tick += (o, e) => {
-                host.CallFunction("drawScene");
-                this.canvasCtrl.Invalidate();
-            };
         }
 
         private void Log(string text)
@@ -80,7 +75,8 @@ namespace JSBridge
                 await ReadAndExecute("paper-full.js");
                 await ReadAndExecute("tadpoles.js");
 
-                this.timer.Start();
+                this.initialized = true;
+                this.canvasCtrl.Invalidate();
             }
             catch (Exception ex)
             {
@@ -98,9 +94,28 @@ namespace JSBridge
 
         private void canvasCtrl_Draw(CanvasControl sender, CanvasDrawEventArgs args)
         {
+            if (!this.initialized) {
+                return;
+            }
+            this.host.CallFunction("drawScene");
             var target = (CanvasRenderTarget)this.host.Window.Render();
 
             args.DrawingSession.DrawImage(target);
+
+
+            if (drawCount == 0) {
+                this.start = DateTime.Now;
+            }
+            drawCount++;
+            var seconds = (DateTime.Now - this.start).TotalSeconds;
+            if (seconds > 0) {
+                var fps = drawCount / seconds;
+
+                args.DrawingSession.DrawText(fps.ToString("0.#") + "fps", 10, 10, Colors.Red);
+            }
+
+            // triggers next Draw event at max 60fps
+            this.canvasCtrl.Invalidate();
         }
 
         private void Page_Unloaded(object sender, RoutedEventArgs e)

@@ -261,7 +261,7 @@
         boids.push(new Boid(position, 10, 0.05));
     }
 
-    view.onFrame = function(event) {
+    drawScene = function (event) {
         for (var i = 0, l = boids.length; i < l; i++) {
             if (groupTogether) {
                 var length = ((i + event.count / 30) % l) / l * heartPath.length;
@@ -271,6 +271,8 @@
             }
             boids[i].run(boids);
         }
+
+        paper.view.draw();
     }
 
     //// Reposition the heart path whenever the window is resized:
@@ -292,7 +294,7 @@
     //}
 }
 
-function drawScene() {
-    paper.view.onFrame();
-    paper.view.draw();
-}
+//function drawScene() {
+//    paper.view.onFrame();
+//    paper.view.draw();
+//}
