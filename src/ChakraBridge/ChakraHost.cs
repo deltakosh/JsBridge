@@ -62,10 +62,10 @@ namespace ChakraBridge
             ProjectObjectToGlobal(this.window.document, "document");
 
             // Add references
-            RunScript("XMLHttpRequest = ChakraBridge.XMLHttpRequest;");
-            RunScript("HTMLCanvasElement = ChakraBridge.IHTMLCanvasElement;");
-            RunScript("atob = window.atob;");
-            RunScript("btoa = window.btoa;");
+            RunScript(@"XMLHttpRequest = ChakraBridge.XMLHttpRequest;
+HTMLCanvasElement = ChakraBridge.HTMLCanvasElementWrapper;
+atob = window.atob;
+btoa = window.btoa;");
 
 #if DEBUG
             // Debug
