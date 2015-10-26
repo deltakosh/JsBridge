@@ -298,3 +298,5 @@
 //    paper.view.onFrame();
 //    paper.view.draw();
 //}
+
+console.log("paper.js launched");

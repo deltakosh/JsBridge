@@ -94,10 +94,14 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="refs\paper-core.js" />
-    <Content Include="refs\papersample.js" />
-    <Content Include="refs\sample.js" />
-    <Content Include="refs\tadpoles.js" />
+    <Content Include="cdc-refs\azuremobileservices.js" />
+    <Content Include="cdc-refs\cdc-azuremobileservices.js" />
+    <Content Include="cdc-refs\cdc.js" />
+    <Content Include="cdc-refs\sample.js" />
+    <Content Include="paperjs-refs\paper-core.js" />
+    <Content Include="paperjs-refs\papersample.js" />
+    <Content Include="paperjs-refs\sample.js" />
+    <Content Include="paperjs-refs\tadpoles.js" />
     <None Include="JsBridge_TemporaryKey.pfx" />
     <None Include="project.json" />
   </ItemGroup>
@@ -105,8 +109,13 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="MainPage.xaml.cs">
-      <DependentUpon>MainPage.xaml</DependentUpon>
+    <Compile Include="cdc-refs\People.cs" />
+    <Compile Include="CDC.xaml.cs">
+      <DependentUpon>CDC.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LoaderTools.cs" />
+    <Compile Include="PaperJS.xaml.cs">
+      <DependentUpon>PaperJS.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -130,7 +139,11 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="MainPage.xaml">
+    <Page Include="CDC.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PaperJS.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>

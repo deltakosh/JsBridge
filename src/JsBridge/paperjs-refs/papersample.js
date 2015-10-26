@@ -9,3 +9,5 @@ function drawScene() {
 
     paper.view.draw();
 }
+
+console.log("paper.js launched");

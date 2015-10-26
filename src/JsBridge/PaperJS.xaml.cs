@@ -11,14 +11,14 @@ using Windows.UI;
 
 namespace JSBridge
 {
-    public sealed partial class MainPage
+    public sealed partial class PaperJS
     {
         private ChakraHost host;
         private DateTime start;
         private int drawCount;
         private bool initialized = false;
 
-        public MainPage()
+        public PaperJS()
         {
             InitializeComponent();
         }
@@ -27,26 +27,6 @@ namespace JSBridge
         {
             JsConsole.Text += text + "\n";
             JsOutputScroll.ChangeView(null, double.MaxValue, null);
-        }
-
-        async Task ReadAndExecute(string filename)
-        {
-            var script = await CoreTools.GetPackagedFileContentAsync("refs", filename);
-            host.RunScript(script);
-        }
-
-        async Task DownloadAndExecute(string url)
-        {
-            var script = await CoreTools.DownloadStringAsync(url);
-
-            try
-            {
-                host.RunScript(script);
-            }
-            catch (Exception ex)
-            {
-                JsConsole.Text = ex.Message;
-            }
         }
 
         private async void MainPage_OnLoaded(object sender, RoutedEventArgs e)
@@ -65,15 +45,15 @@ namespace JSBridge
             try
             {
                 // simple palette
-                //await ReadAndExecute("sample.js");
+                //await host.ReadAndExecute("sample.js", "paperjs-refs");
 
                 // animating rect
-                //await ReadAndExecute("paper-core.js");
-                //await ReadAndExecute("papersample.js");
+                //await host.ReadAndExecute("paper-core.js", "paperjs-refs");
+                //await host.ReadAndExecute("papersample.js", "paperjs-refs");
 
                 // tadpoles
-                await ReadAndExecute("paper-core.js");
-                await ReadAndExecute("tadpoles.js");
+                await host.ReadAndExecute("paper-core.js", "paperjs-refs");
+                await host.ReadAndExecute("tadpoles.js", "paperjs-refs");
 
                 this.initialized = true;
                 this.canvasCtrl.Invalidate();
