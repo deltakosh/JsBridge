@@ -10,12 +10,12 @@ using Microsoft.Graphics.Canvas;
 
 namespace JSBridge
 {
-    public sealed partial class MainPage
+    public sealed partial class PaperJS
     {
         private ChakraHost host;
         private DispatcherTimer timer;
 
-        public MainPage()
+        public PaperJS()
         {
             InitializeComponent();
 
@@ -33,27 +33,7 @@ namespace JSBridge
             JsConsole.Text += text + "\n";
             JsOutputScroll.ChangeView(null, double.MaxValue, null);
         }
-
-        async Task ReadAndExecute(string filename)
-        {
-            var script = await CoreTools.GetPackagedFileContentAsync("refs", filename);
-            host.RunScript(script);
-        }
-
-        async Task DownloadAndExecute(string url)
-        {
-            var script = await CoreTools.DownloadStringAsync(url);
-
-            try
-            {
-                host.RunScript(script);
-            }
-            catch (Exception ex)
-            {
-                JsConsole.Text = ex.Message;
-            }
-        }
-
+        
         private async void MainPage_OnLoaded(object sender, RoutedEventArgs e)
         {
             Console.OnLog += Console_OnLog;
@@ -77,8 +57,8 @@ namespace JSBridge
                 //await ReadAndExecute("papersample.js");
 
                 // tadpoles
-                await ReadAndExecute("paper-full.js");
-                await ReadAndExecute("tadpoles.js");
+                await host.ReadAndExecute("paper-full.js", "paperjs-refs");
+                await host.ReadAndExecute("tadpoles.js", "paperjs-refs");
 
                 this.timer.Start();
             }

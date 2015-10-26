@@ -2,3 +2,6 @@
 obj
 bin
 /dist/*.pdb
+Debug
+ipch
+/src/*.sdf
