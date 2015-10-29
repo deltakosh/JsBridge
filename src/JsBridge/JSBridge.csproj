@@ -98,7 +98,7 @@
     <Content Include="cdc-refs\cdc-azuremobileservices.js" />
     <Content Include="cdc-refs\cdc.js" />
     <Content Include="cdc-refs\sample.js" />
-    <Content Include="paperjs-refs\paper-full.js" />
+    <Content Include="paperjs-refs\paper-core.js" />
     <Content Include="paperjs-refs\papersample.js" />
     <Content Include="paperjs-refs\sample.js" />
     <Content Include="paperjs-refs\tadpoles.js" />

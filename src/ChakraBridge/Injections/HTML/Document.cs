@@ -8,7 +8,7 @@ namespace ChakraBridge
 {
     class Document : Node, IDocument
     {
-        private HTMLCanvasElement canvas;
+        private HTMLCanvasElementWrapper canvas;
 
         internal Document(IWindow window)
             : base(window)
@@ -28,7 +28,7 @@ namespace ChakraBridge
         {
             if (tagName == "canvas") {
                 if (this.canvas == null) {
-                    this.canvas = new HTMLCanvasElement(this.ownerDocument.defaultView);
+                    this.canvas = new HTMLCanvasElementWrapper(new HTMLCanvasElement(this.ownerDocument.defaultView));
                 }
                 return this.canvas;
             }
