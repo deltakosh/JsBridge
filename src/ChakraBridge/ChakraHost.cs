@@ -187,7 +187,45 @@ btoa = window.btoa;");
             // call function
             function.CallFunction(javascriptParameters.ToArray());
         }
+        public string CallFunctionReturnValue(string name, params object[] parameters)
+        {
+            JavaScriptValue globalObject;
+            Native.JsGetGlobalObject(out globalObject);
 
+            JavaScriptPropertyId functionId = JavaScriptPropertyId.FromString(name);
+
+            var function = globalObject.GetProperty(functionId);
+
+            // Parameters
+            var javascriptParameters = new List<JavaScriptValue>();
+
+            javascriptParameters.Add(globalObject); // this value
+
+            foreach (var parameter in parameters)
+            {
+                var parameterType = parameter.GetType().Name;
+                switch (parameterType)
+                {
+                    case "Int32":
+                        javascriptParameters.Add(JavaScriptValue.FromInt32((int)parameter));
+                        break;
+                    case "Double":
+                        javascriptParameters.Add(JavaScriptValue.FromDouble((double)parameter));
+                        break;
+                    case "Boolean":
+                        javascriptParameters.Add(JavaScriptValue.FromBoolean((bool)parameter));
+                        break;
+                    case "String":
+                        javascriptParameters.Add(JavaScriptValue.FromString((string)parameter));
+                        break;
+                    default:
+                        throw new Exception("Not supported type: " + parameterType);
+                }
+            }
+
+            // call function
+            return function.CallFunction(javascriptParameters.ToArray()).ToString();
+        }
         // Private tools
         private static void DefineHostCallback(string callbackName, JavaScriptNativeFunction callback)
         {
